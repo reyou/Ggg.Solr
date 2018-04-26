@@ -25,8 +25,8 @@ var onGetRandomUserCompleted = function (err, body) {
     // console.log("onGetRandomUserCompleted:", body);
     let userResult = JSON.parse(body);
     let user = userResult.results[0];
-    console.log("onGetRandomUserCompleted: ",user.name.first, user.name.last, user.email);
-   
+    console.log("onGetRandomUserCompleted: ", user.name.first, user.name.last, user.email);
+
     createUser(user, onCreateUserCompleted);
 }
 
