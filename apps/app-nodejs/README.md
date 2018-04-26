@@ -6,8 +6,50 @@ http://localhost:8983/solr/#/
 
 cd C:\Programs2\solr-6.6.0\solr-6.6.0\bin
 
+Start Solr
 .\solr.cmd start
 
+Start Solr with a Different Port
+solr.cmd start -p 8984
+
+Start Solr in SolrCloud mode, which will also launch the embedded ZooKeeper instance included with Solr.
+solr.cmd start -c 
+
+Start Solr with verbose messages from the start script
+solr.cmd start -V
+
+Start Solr in the Foreground
+solr.cmd start -f
+
+Stop Solr
+solr.cmd stop -p 8983
+
+Stop All Solr
+solr.cmd stop -all
+
+launch the "techproducts" example
+solr.cmd -e techproducts
+
+Check if Solr is Running
+solr.cmd status
+ 
+Create a Core
+solr create -c GggCore
+
+To see all available options for creating a new core
+solr create -help
+
+restart
+solr.cmd restart -p 8983
+
+version
+solr.cmd version
+
+healthcheck
+solr.cmd healthcheck -c gettingstarted
+
+delete core
+solr.cmd delete -c coreNameWillBeHere
 
 Commands
 http://localhost:8983/solr/admin/cores?action=CREATE&name=GggCore&instanceDir=GggCore
