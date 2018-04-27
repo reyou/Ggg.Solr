@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "ryan",
+        "last": "scott"
+    },
+    "location": {
+        "street": "6394 20th ave",
+        "city": "waterloo",
+        "state": "nova scotia",
+        "postcode": 55088
+    },
+    "email": "ryan.scott@example.com",
+    "login": {
+        "username": "redelephant770",
+        "password": "sparkle",
+        "salt": "kEQe7sMD",
+        "md5": "6d7bb9c8682a13f3fe5866c10bb15097",
+        "sha1": "56cd17632edb5c4e710fca593ab1c8254e533e1c",
+        "sha256": "068ddb7d37231199bafff76a0f4c15785e8a9c35bb779f30f2a2677ede59b114"
+    },
+    "dob": "1992-09-08 11:13:06",
+    "registered": "2013-08-07 09:42:26",
+    "phone": "090-895-6174",
+    "cell": "939-896-6785",
+    "id": "93630440-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/97.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    },
+    "nat": "CA"
+}

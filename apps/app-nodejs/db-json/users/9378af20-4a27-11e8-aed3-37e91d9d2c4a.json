@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "louka",
+        "last": "noel"
+    },
+    "location": {
+        "street": "9012 rue de l'abbaye",
+        "city": "fort-de-france",
+        "state": "essonne",
+        "postcode": 26437
+    },
+    "email": "louka.noel@example.com",
+    "login": {
+        "username": "bluebear866",
+        "password": "hampton",
+        "salt": "wz5kQGw4",
+        "md5": "b1acdd899c37342697868165942d1e38",
+        "sha1": "a6715fc1abccd86c82fbc40544a25e87257ad115",
+        "sha256": "b85018cf08c9e9afd38cf1b1c7b2dba1510924dec89af7f3a46c287ae51bcf46"
+    },
+    "dob": "1988-04-12 02:24:52",
+    "registered": "2003-03-04 20:41:28",
+    "phone": "04-83-32-20-05",
+    "cell": "06-25-58-40-14",
+    "id": "9378af20-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    },
+    "nat": "FR"
+}

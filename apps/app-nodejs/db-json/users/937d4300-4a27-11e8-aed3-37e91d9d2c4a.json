@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "lorenzo",
+        "last": "lozano"
+    },
+    "location": {
+        "street": "3175 calle de arturo soria",
+        "city": "cartagena",
+        "state": "país vasco",
+        "postcode": 36864
+    },
+    "email": "lorenzo.lozano@example.com",
+    "login": {
+        "username": "whiteelephant869",
+        "password": "pokemon",
+        "salt": "GcdGSBlm",
+        "md5": "1c657f48591fa1995a905b2c864e3d72",
+        "sha1": "136bbddfb730fb223f352e1fc656a5b8dba93ba7",
+        "sha256": "a36f1ad46c2234023ec832c0a8aa836e4b2ea674466f7c685e268ea3cb975283"
+    },
+    "dob": "1957-06-11 13:06:20",
+    "registered": "2008-02-06 22:38:52",
+    "phone": "928-532-615",
+    "cell": "681-966-777",
+    "id": "937d4300-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/31.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+    },
+    "nat": "ES"
+}

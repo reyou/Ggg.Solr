@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "ملینا",
+        "last": "کامروا"
+    },
+    "location": {
+        "street": "6463 میدان آزادی",
+        "city": "قدس",
+        "state": "یزد",
+        "postcode": 10843
+    },
+    "email": "ملینا.کامروا@example.com",
+    "login": {
+        "username": "beautifulduck934",
+        "password": "buddha",
+        "salt": "pj71XGC3",
+        "md5": "c809daad63d8650e70aa16b7ce6a111f",
+        "sha1": "8436c481538bbda24f66e2201ff4e109fa61fa00",
+        "sha256": "bc1dc2dbf54b2e9dd9c27931e2f8acd3f45499da5cb99522fd164a8f1c26bb53"
+    },
+    "dob": "1959-05-20 16:03:55",
+    "registered": "2002-07-18 21:34:46",
+    "phone": "013-91152107",
+    "cell": "0996-894-9410",
+    "id": "93881870-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+    },
+    "nat": "IR"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "eemeli",
+        "last": "tikkanen"
+    },
+    "location": {
+        "street": "7346 siilitie",
+        "city": "kalajoki",
+        "state": "central finland",
+        "postcode": 86665
+    },
+    "email": "eemeli.tikkanen@example.com",
+    "login": {
+        "username": "bigmouse826",
+        "password": "limited",
+        "salt": "12EnoW7U",
+        "md5": "12c44e7cdfd82f3091c160a391b7dcb9",
+        "sha1": "e83b02e0964be0ea49898948a9885bd7fd9ba568",
+        "sha256": "2d2bdea044d316e509cf81182d75103b17708073207847a19e081362b4e6d7cc"
+    },
+    "dob": "1987-06-19 15:10:09",
+    "registered": "2013-04-03 10:16:01",
+    "phone": "08-624-471",
+    "cell": "047-834-07-68",
+    "id": "93877c30-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    },
+    "nat": "FI"
+}

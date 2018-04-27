@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "allie",
+        "last": "burns"
+    },
+    "location": {
+        "street": "5494 rochestown road",
+        "city": "ashbourne",
+        "state": "cork",
+        "postcode": 10093
+    },
+    "email": "allie.burns@example.com",
+    "login": {
+        "username": "whitebutterfly189",
+        "password": "moscow",
+        "salt": "FTmBkxRn",
+        "md5": "b0503581be1911ac23faaadbf4ef13dc",
+        "sha1": "3b0fe27af4c46e2b698655527d5c5a35a861de2b",
+        "sha256": "bdd1d5191bc26d675a4ed8bbeddeea4fca015d51777d5465e6755f986ffcc256"
+    },
+    "dob": "1968-01-24 12:05:04",
+    "registered": "2008-03-29 08:07:00",
+    "phone": "021-019-5587",
+    "cell": "081-269-3253",
+    "id": "936f1230-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/41.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    },
+    "nat": "IE"
+}

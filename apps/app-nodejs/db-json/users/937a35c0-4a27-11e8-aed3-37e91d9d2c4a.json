@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "sean",
+        "last": "bennett"
+    },
+    "location": {
+        "street": "9518 green lane",
+        "city": "salisbury",
+        "state": "herefordshire",
+        "postcode": "HU1 4AZ"
+    },
+    "email": "sean.bennett@example.com",
+    "login": {
+        "username": "whiteswan668",
+        "password": "1115",
+        "salt": "UEGvrSwt",
+        "md5": "53646e6391bddb6c280cfea4247bb9bb",
+        "sha1": "f306f57d3826ad836ba845a77d94863acfb95b52",
+        "sha256": "ab88bb4e709812e1e24b7996a21581697a4a689a086f2adc1eed682689a3306c"
+    },
+    "dob": "1976-07-06 05:11:33",
+    "registered": "2004-07-04 12:25:30",
+    "phone": "016977 5052",
+    "cell": "0787-816-698",
+    "id": "937a35c0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "GB"
+}

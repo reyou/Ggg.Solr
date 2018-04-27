@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "tracy",
+        "last": "ortiz"
+    },
+    "location": {
+        "street": "4570 church street",
+        "city": "swansea",
+        "state": "isle of wight",
+        "postcode": "X81 1JA"
+    },
+    "email": "tracy.ortiz@example.com",
+    "login": {
+        "username": "blackbird819",
+        "password": "1717",
+        "salt": "YpmA7SNT",
+        "md5": "a19b8435c53f49ca23f5abd6902babce",
+        "sha1": "7037be5a62e9d80e1a863d459b969e812d3a3061",
+        "sha256": "2dc3f9878a5f484b3d717e96eae3a4b053f54896cc60c92bf2619998881c83f0"
+    },
+    "dob": "1967-03-15 08:35:51",
+    "registered": "2011-01-19 11:32:11",
+    "phone": "016974 73794",
+    "cell": "0728-702-779",
+    "id": "936f8760-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/71.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    },
+    "nat": "GB"
+}

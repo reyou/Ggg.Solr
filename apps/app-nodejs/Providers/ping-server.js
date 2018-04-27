@@ -6,7 +6,7 @@ var request = require("request");
 var SolrConfig = require("../SolrConfig.json");
 function pingServer(host, core) {
   const url = host + "/solr/" + core + "/admin/ping?wt=json&indent=on";
-  request(url, function(error, response, body) {
+  request(url, function (error, response, body) {
     if (error) {
       console.log("error:", error, url);
     }
@@ -15,4 +15,6 @@ function pingServer(host, core) {
   });
 }
 
-pingServer(SolrConfig.host, SolrConfig.core);
+if (require.main === module) {
+  pingServer(SolrConfig.host, SolrConfig.core);
+}

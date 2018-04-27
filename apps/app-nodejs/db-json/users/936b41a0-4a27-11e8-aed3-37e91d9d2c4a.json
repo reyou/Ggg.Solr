@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "nurdan",
+        "last": "türkyılmaz"
+    },
+    "location": {
+        "street": "4079 vatan cd",
+        "city": "denizli",
+        "state": "şırnak",
+        "postcode": 93868
+    },
+    "email": "nurdan.türkyılmaz@example.com",
+    "login": {
+        "username": "bigbear928",
+        "password": "gustav",
+        "salt": "sPO8XrpF",
+        "md5": "bfbe0fc74fb267ece1ba87822aa4fcbf",
+        "sha1": "96038fb008206b63e5b16f71188f24134ebe9ee8",
+        "sha256": "057b2b900185631fa8a1c420d77425ab6916283a4bb38ea7cafcf9ccf29c2d8b"
+    },
+    "dob": "1988-07-19 07:29:44",
+    "registered": "2014-10-31 10:44:36",
+    "phone": "(724)-742-8906",
+    "cell": "(799)-800-0620",
+    "id": "936b41a0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/44.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    },
+    "nat": "TR"
+}

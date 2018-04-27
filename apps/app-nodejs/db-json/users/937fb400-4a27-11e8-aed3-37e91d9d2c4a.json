@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "اميرعلي",
+        "last": "جعفری"
+    },
+    "location": {
+        "street": "4480 آیت‌الله سعیدی",
+        "city": "قم",
+        "state": "زنجان",
+        "postcode": 43514
+    },
+    "email": "اميرعلي.جعفری@example.com",
+    "login": {
+        "username": "redgorilla322",
+        "password": "12341234",
+        "salt": "CoECIiIl",
+        "md5": "2a8e268b6b20b1ba50b7ad1dc94a9b78",
+        "sha1": "fd1776e718992f7b98d43367ff0c1a62c35984c3",
+        "sha256": "15a17a18e18a25c7647dabff755aa0af7c086cf32116d7c7d3b26043b0280cab"
+    },
+    "dob": "1949-01-06 17:41:01",
+    "registered": "2009-07-16 20:32:54",
+    "phone": "099-33047272",
+    "cell": "0930-431-7574",
+    "id": "937fb400-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    },
+    "nat": "IR"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "eevi",
+        "last": "saarela"
+    },
+    "location": {
+        "street": "4794 hatanpään valtatie",
+        "city": "kökar",
+        "state": "lapland",
+        "postcode": 51097
+    },
+    "email": "eevi.saarela@example.com",
+    "login": {
+        "username": "ticklishelephant349",
+        "password": "broncos1",
+        "salt": "QIvOvUkh",
+        "md5": "2106802a5fcfa554f3722c7d99eae465",
+        "sha1": "152b54218912b2faf930dd385616f1fcb1cd1d2e",
+        "sha256": "fd16bd884c69a25ebded2f0dee82287935316726a1fc0b3c38b0ed71785eb651"
+    },
+    "dob": "1953-04-15 11:37:06",
+    "registered": "2006-02-10 06:15:45",
+    "phone": "08-796-630",
+    "cell": "040-119-86-91",
+    "id": "93807750-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/9.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+    },
+    "nat": "FI"
+}

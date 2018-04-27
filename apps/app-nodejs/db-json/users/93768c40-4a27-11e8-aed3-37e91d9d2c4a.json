@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "landon",
+        "last": "day"
+    },
+    "location": {
+        "street": "4403 the drive",
+        "city": "thurles",
+        "state": "laois",
+        "postcode": 52798
+    },
+    "email": "landon.day@example.com",
+    "login": {
+        "username": "blackbutterfly370",
+        "password": "hawaii",
+        "salt": "cbqFYst4",
+        "md5": "afd7dacc2e7ecfd22ea45cc92bd3869e",
+        "sha1": "6c330c948263175a825ac54d1f6e6a60d8f3647a",
+        "sha256": "3b8fd69fb3cd2b9cdec367cf14421957a316c4829afc3445d280a35ed7342489"
+    },
+    "dob": "1966-09-10 19:12:11",
+    "registered": "2014-06-07 19:30:12",
+    "phone": "061-115-4103",
+    "cell": "081-823-8026",
+    "id": "93768c40-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/98.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+    },
+    "nat": "IE"
+}

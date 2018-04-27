@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "annabelle",
+        "last": "williams"
+    },
+    "location": {
+        "street": "3029 22nd ave",
+        "city": "chesterville",
+        "state": "new brunswick",
+        "postcode": 77038
+    },
+    "email": "annabelle.williams@example.com",
+    "login": {
+        "username": "heavyladybug431",
+        "password": "blowjob",
+        "salt": "XnWO0uCl",
+        "md5": "f6122709dbcb84d2d2a8f20ba2e2b278",
+        "sha1": "37c57316944cae55ba8fe449c566e7099cf368bc",
+        "sha256": "fada9aef2bf1ad2dcc90e5bbe6aada6c49d448745a3f068ca09e9be6aa83e1eb"
+    },
+    "dob": "1958-08-16 08:39:55",
+    "registered": "2011-11-03 22:08:08",
+    "phone": "395-092-0867",
+    "cell": "466-685-8656",
+    "id": "9381fdf0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+    },
+    "nat": "CA"
+}

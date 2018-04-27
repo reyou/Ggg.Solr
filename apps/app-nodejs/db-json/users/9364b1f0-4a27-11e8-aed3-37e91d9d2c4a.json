@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "afşar",
+        "last": "çetin"
+    },
+    "location": {
+        "street": "5675 maçka cd",
+        "city": "manisa",
+        "state": "ardahan",
+        "postcode": 70203
+    },
+    "email": "afşar.çetin@example.com",
+    "login": {
+        "username": "crazyleopard535",
+        "password": "kawasaki",
+        "salt": "Mf0C1Oco",
+        "md5": "b5a241ff7c9983de6ae1d1fd2d7040be",
+        "sha1": "e7ef275440fceb3ecfa825519294635252113e22",
+        "sha256": "6948dfabd8a8df8b899513eea13569fe31aa5babe879e903b94e349766bbe123"
+    },
+    "dob": "1989-07-04 14:09:35",
+    "registered": "2014-08-04 20:45:35",
+    "phone": "(692)-348-7009",
+    "cell": "(852)-992-8862",
+    "id": "9364b1f0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+    },
+    "nat": "TR"
+}

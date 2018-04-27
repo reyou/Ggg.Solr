@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "larissa",
+        "last": "böhm"
+    },
+    "location": {
+        "street": "1792 mittelstraße",
+        "city": "mettmann",
+        "state": "brandenburg",
+        "postcode": 18970
+    },
+    "email": "larissa.böhm@example.com",
+    "login": {
+        "username": "heavydog985",
+        "password": "horn",
+        "salt": "7UPfMLiS",
+        "md5": "5b17f4d00a81596f2cbe1888cf9406ba",
+        "sha1": "1fe55bc9fb10ff77361d2a9bcbc17cb78fa46500",
+        "sha256": "8b707f5abec5064f46e620fae7413fee7dd5a1d6a72e5ca5ab53d8bed3be103c"
+    },
+    "dob": "1966-03-15 04:33:37",
+    "registered": "2010-11-21 22:01:10",
+    "phone": "0937-9751059",
+    "cell": "0176-4725963",
+    "id": "93718330-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/29.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    },
+    "nat": "DE"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "isabel",
+        "last": "gutierrez"
+    },
+    "location": {
+        "street": "4679 calle de pedro bosch",
+        "city": "alicante",
+        "state": "galicia",
+        "postcode": 63437
+    },
+    "email": "isabel.gutierrez@example.com",
+    "login": {
+        "username": "blackduck920",
+        "password": "chicks",
+        "salt": "AAvZ8TgS",
+        "md5": "faab7baf39414dfa25f69657534588de",
+        "sha1": "79a76dea2d846bf05e76c9fd8a97392dca000f87",
+        "sha256": "6470b652610b995f90e74b51d0866c4afb5cf131cfa9f09456e2e81affac78a2"
+    },
+    "dob": "1979-04-19 22:07:06",
+    "registered": "2005-06-07 17:54:26",
+    "phone": "932-905-054",
+    "cell": "652-766-001",
+    "id": "93888da0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/70.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+    },
+    "nat": "ES"
+}

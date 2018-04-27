@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "ava",
+        "last": "brown"
+    },
+    "location": {
+        "street": "3529 atkinson avenue",
+        "city": "masterton",
+        "state": "tasman",
+        "postcode": 62630
+    },
+    "email": "ava.brown@example.com",
+    "login": {
+        "username": "silverpeacock302",
+        "password": "nugget",
+        "salt": "3xJy9Q4d",
+        "md5": "62db22337ce4f03d4598407186bd13a5",
+        "sha1": "6412a810aca02fe0c818694cbac4dd057ba720ca",
+        "sha256": "5400c1994a5f733e1b4ff3b717af5bce0f6124a26e7fd0413d276be471160028"
+    },
+    "dob": "1958-06-13 01:09:07",
+    "registered": "2013-11-04 00:43:23",
+    "phone": "(233)-941-0141",
+    "cell": "(512)-817-3685",
+    "id": "93752cb0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/6.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    },
+    "nat": "NZ"
+}

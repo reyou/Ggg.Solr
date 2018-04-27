@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "marleen",
+        "last": "hahn"
+    },
+    "location": {
+        "street": "3928 grüner weg",
+        "city": "neuss",
+        "state": "niedersachsen",
+        "postcode": 94915
+    },
+    "email": "marleen.hahn@example.com",
+    "login": {
+        "username": "beautifulbird414",
+        "password": "cramps",
+        "salt": "P7Z5LpTM",
+        "md5": "183f69bff0e9d8d87b7fa3368e48f39f",
+        "sha1": "6d189488cc36627475b361b1429e279ede09a4c2",
+        "sha256": "ea6ae8c3b85a5abffd5709645a61775bb04e090227b5cc766b397198530350e2"
+    },
+    "dob": "1965-02-26 11:55:49",
+    "registered": "2014-10-12 15:20:41",
+    "phone": "0913-5753928",
+    "cell": "0174-3927922",
+    "id": "9370bfe0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/42.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+    },
+    "nat": "DE"
+}

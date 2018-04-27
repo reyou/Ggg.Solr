@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "benjamin",
+        "last": "roy"
+    },
+    "location": {
+        "street": "7690 disputed rd",
+        "city": "lloydminster",
+        "state": "québec",
+        "postcode": 84819
+    },
+    "email": "benjamin.roy@example.com",
+    "login": {
+        "username": "greenbutterfly498",
+        "password": "domain",
+        "salt": "XvKbabIp",
+        "md5": "52bee43a38ca1a863828c013ecc922f8",
+        "sha1": "66ea5eb6093423c11edad402333de15cc6b1fcbd",
+        "sha256": "733c28775be124478ba99157ddc0dba579e5ac553b6f0341841c86ebcc7a995e"
+    },
+    "dob": "1947-11-22 09:44:01",
+    "registered": "2015-10-23 04:37:41",
+    "phone": "339-203-4952",
+    "cell": "232-377-0190",
+    "id": "93786100-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/91.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    },
+    "nat": "CA"
+}

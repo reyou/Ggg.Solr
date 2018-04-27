@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "rachel",
+        "last": "watts"
+    },
+    "location": {
+        "street": "1206 james st",
+        "city": "nampa",
+        "state": "colorado",
+        "postcode": 24452
+    },
+    "email": "rachel.watts@example.com",
+    "login": {
+        "username": "purplewolf344",
+        "password": "fick",
+        "salt": "Hh4zkcgc",
+        "md5": "fa7777da2e2050ff74d98752a0a66fa9",
+        "sha1": "4976e352942ca3a3bfe88e05ad4256472a00795d",
+        "sha256": "de9b8807c0315c69354681914244d5a5bdf13d016570543ec00b2a11d34b7cdb"
+    },
+    "dob": "1969-12-20 03:49:07",
+    "registered": "2011-04-21 16:13:40",
+    "phone": "(021)-476-3499",
+    "cell": "(790)-252-1926",
+    "id": "938161b0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/85.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+    },
+    "nat": "US"
+}

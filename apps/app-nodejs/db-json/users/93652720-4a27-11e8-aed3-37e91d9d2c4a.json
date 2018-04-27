@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "marie",
+        "last": "hansen"
+    },
+    "location": {
+        "street": "8623 falkevej",
+        "city": "amager",
+        "state": "danmark",
+        "postcode": 61970
+    },
+    "email": "marie.hansen@example.com",
+    "login": {
+        "username": "smallbear213",
+        "password": "goat",
+        "salt": "QOLAfebQ",
+        "md5": "601ff69ac3bb80ab452974c7316dfe1a",
+        "sha1": "6dd6b560d432cca2bc7793b47c5ad3bd00452034",
+        "sha256": "8338d518dc3a916f2b9dab58442132186d8966dd0986a3ef136c11cff6f5978a"
+    },
+    "dob": "1946-09-12 02:38:08",
+    "registered": "2005-01-21 13:01:55",
+    "phone": "15874142",
+    "cell": "44271106",
+    "id": "93652720-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/36.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    },
+    "nat": "DK"
+}

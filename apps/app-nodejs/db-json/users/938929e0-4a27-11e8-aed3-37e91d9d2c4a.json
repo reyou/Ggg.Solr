@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "rafael",
+        "last": "walker"
+    },
+    "location": {
+        "street": "8544 main street",
+        "city": "letterkenny",
+        "state": "louth",
+        "postcode": 22995
+    },
+    "email": "rafael.walker@example.com",
+    "login": {
+        "username": "redbird753",
+        "password": "kitten",
+        "salt": "C44Xp241",
+        "md5": "ce5194e17049b968f7459bd5373f7d91",
+        "sha1": "2b54ddeadb553043db7d6dae660ac703fc01c3cc",
+        "sha256": "ba75827db089d524fc8b174797fb31ca3d82e05c8f248877f092137cbfbd3f3f"
+    },
+    "dob": "1992-11-12 16:51:24",
+    "registered": "2015-08-28 16:31:36",
+    "phone": "051-186-3850",
+    "cell": "081-066-4025",
+    "id": "938929e0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    },
+    "nat": "IE"
+}

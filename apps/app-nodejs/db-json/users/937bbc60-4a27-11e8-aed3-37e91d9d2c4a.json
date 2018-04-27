@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "william",
+        "last": "soto"
+    },
+    "location": {
+        "street": "2381 miller ave",
+        "city": "busselton",
+        "state": "western australia",
+        "postcode": 1316
+    },
+    "email": "william.soto@example.com",
+    "login": {
+        "username": "organicfrog666",
+        "password": "preacher",
+        "salt": "2sCVsEq4",
+        "md5": "cd9cdd2a2be4c4700497300290648b2a",
+        "sha1": "74735a26e65515e820ab5154e26fb5713d410a08",
+        "sha256": "695286a5bb4b0f26f57b0f46beedcab4282696ed4f8275ede20a96f5748867c8"
+    },
+    "dob": "1976-05-18 11:01:04",
+    "registered": "2007-06-04 16:22:45",
+    "phone": "07-0951-4455",
+    "cell": "0434-952-408",
+    "id": "937bbc60-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/3.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    },
+    "nat": "AU"
+}

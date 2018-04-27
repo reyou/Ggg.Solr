@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "marshall",
+        "last": "wright"
+    },
+    "location": {
+        "street": "3113 galway road",
+        "city": "carrick-on-suir",
+        "state": "dún laoghaire–rathdown",
+        "postcode": 70780
+    },
+    "email": "marshall.wright@example.com",
+    "login": {
+        "username": "blackkoala110",
+        "password": "golfgolf",
+        "salt": "xhJ7XPwm",
+        "md5": "a619ebd7773096c13cd6ecbfc59071aa",
+        "sha1": "06605ddc011610887f2b8dcf0344c985c188f4cc",
+        "sha256": "16ecd5e32e36e75f5373f632a31e7aedcf135099db74c1d59324609e70f13207"
+    },
+    "dob": "1990-11-18 13:48:52",
+    "registered": "2014-01-23 10:32:22",
+    "phone": "021-963-3982",
+    "cell": "081-481-8649",
+    "id": "9389ed30-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/95.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+    },
+    "nat": "IE"
+}

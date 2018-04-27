@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "ícaro",
+        "last": "da mata"
+    },
+    "location": {
+        "street": "9515 rua santa luzia ",
+        "city": "açailândia",
+        "state": "mato grosso",
+        "postcode": 78281
+    },
+    "email": "ícaro.damata@example.com",
+    "login": {
+        "username": "crazyelephant903",
+        "password": "spliff",
+        "salt": "YEmcXUIJ",
+        "md5": "0ea011b4adc8609d9961e6b39be8e49b",
+        "sha1": "1af98d6fcc7e9fab7d228b40b6aaf40751214e01",
+        "sha256": "142880fe9c4c7d51bc4568f34219c6e80c46ff7a8004d0c7fa6df40e3ada8a5e"
+    },
+    "dob": "1986-02-27 23:03:43",
+    "registered": "2015-05-02 19:32:28",
+    "phone": "(40) 0130-3868",
+    "cell": "(99) 2750-8550",
+    "id": "936e4ee0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+    },
+    "nat": "BR"
+}

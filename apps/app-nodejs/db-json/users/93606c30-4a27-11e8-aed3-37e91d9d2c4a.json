@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "malone",
+        "last": "lemoine"
+    },
+    "location": {
+        "street": "9015 rue des jardins",
+        "city": "dijon",
+        "state": "essonne",
+        "postcode": 65249
+    },
+    "email": "malone.lemoine@example.com",
+    "login": {
+        "username": "blackgoose504",
+        "password": "short",
+        "salt": "j3N3QKNR",
+        "md5": "5bfca2f093b035ed1a63290e786b8091",
+        "sha1": "0bc6ef83ac50bc5d28d229a4e34bd91397a4db61",
+        "sha256": "26fa103e501fa8fe0b34781d1e8d0c9115f2cb4945a80162163d9c9285f16610"
+    },
+    "dob": "1945-11-13 06:54:09",
+    "registered": "2007-01-07 18:03:14",
+    "phone": "05-90-02-38-45",
+    "cell": "06-89-14-99-82",
+    "id": "93606c30-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    },
+    "nat": "FR"
+}

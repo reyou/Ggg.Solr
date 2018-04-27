@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "alfredo",
+        "last": "campbell"
+    },
+    "location": {
+        "street": "9301 chester road",
+        "city": "southampton",
+        "state": "merseyside",
+        "postcode": "Z18 0GP"
+    },
+    "email": "alfredo.campbell@example.com",
+    "login": {
+        "username": "tinygoose755",
+        "password": "dwight",
+        "salt": "svKQ64cI",
+        "md5": "dbebf0bd46b9127f29df2797c180ef5b",
+        "sha1": "81f8172d6e99fff0c39cbc98ace050b0d8a60a91",
+        "sha256": "ecf7f261836cbee1e6b2cc5d6c8002ba5d030eb5ec6cc70bfb00c8c51267cbca"
+    },
+    "dob": "1977-07-31 23:47:11",
+    "registered": "2009-03-10 06:17:42",
+    "phone": "015395 38716",
+    "cell": "0700-755-582",
+    "id": "936a0920-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/51.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+    },
+    "nat": "GB"
+}

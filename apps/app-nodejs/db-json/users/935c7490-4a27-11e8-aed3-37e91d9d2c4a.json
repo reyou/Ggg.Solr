@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "estéfani",
+        "last": "pires"
+    },
+    "location": {
+        "street": "9303 rua rio de janeiro ",
+        "city": "rio claro",
+        "state": "tocantins",
+        "postcode": 55147
+    },
+    "email": "estéfani.pires@example.com",
+    "login": {
+        "username": "whitekoala907",
+        "password": "emma",
+        "salt": "FGIPm4y4",
+        "md5": "827d2e2d42fda45d6df8e4cade559306",
+        "sha1": "488fd63db25fdba41ead243f0566e6e70f31c428",
+        "sha256": "1f535d1454cfc8968e4651b7652c011909696c0344fcc29ff263c67f7b80b63a"
+    },
+    "dob": "1977-04-27 09:02:52",
+    "registered": "2004-01-20 01:08:04",
+    "phone": "(33) 0601-4932",
+    "cell": "(31) 5673-0691",
+    "id": "935c7490-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+    },
+    "nat": "BR"
+}

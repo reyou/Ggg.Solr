@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "billy",
+        "last": "cruz"
+    },
+    "location": {
+        "street": "3530 e pecan st",
+        "city": "roanoke",
+        "state": "colorado",
+        "postcode": 95104
+    },
+    "email": "billy.cruz@example.com",
+    "login": {
+        "username": "purplemeercat603",
+        "password": "phoenix1",
+        "salt": "VOODexHG",
+        "md5": "65cc3b43777f6170110bc75facb28fb8",
+        "sha1": "d0bffc18c9be37b7fd2f87559b60cd71cf2c078c",
+        "sha256": "52d37ab668e4232d9342b56ed8f51f8817bce953e8d545067ebf2e4dd835e7de"
+    },
+    "dob": "1982-04-04 14:52:56",
+    "registered": "2003-10-06 21:23:55",
+    "phone": "(933)-017-0294",
+    "cell": "(570)-990-9272",
+    "id": "9388dbc0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+    },
+    "nat": "US"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "monsieur",
+        "first": "ilyès",
+        "last": "menard"
+    },
+    "location": {
+        "street": "3432 rue desaix",
+        "city": "vulliens",
+        "state": "valais",
+        "postcode": 5226
+    },
+    "email": "ilyès.menard@example.com",
+    "login": {
+        "username": "crazymouse939",
+        "password": "irishman",
+        "salt": "42nKLuIU",
+        "md5": "598649ef07ecf570490aeec50a4634f2",
+        "sha1": "125ce8372d28fb5f0af971e080ff17003ea5cdd8",
+        "sha256": "f8585d9812ee78571efec85a975883141e338ef70a4dd52b0569dfbdb58f751e"
+    },
+    "dob": "1965-09-24 22:09:32",
+    "registered": "2009-09-21 10:27:11",
+    "phone": "(712)-488-1288",
+    "cell": "(785)-114-5611",
+    "id": "93685b70-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/17.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    },
+    "nat": "CH"
+}

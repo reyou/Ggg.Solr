@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "harry",
+        "last": "robinson"
+    },
+    "location": {
+        "street": "4363 avalon drive",
+        "city": "gisborne",
+        "state": "tasman",
+        "postcode": 58141
+    },
+    "email": "harry.robinson@example.com",
+    "login": {
+        "username": "organicpanda751",
+        "password": "prowler",
+        "salt": "1aQYblWN",
+        "md5": "23ce3802360d8b45688274e45f59bc7e",
+        "sha1": "cd05875776e5c304a24057331f581d6cd9a5f2d5",
+        "sha256": "3dc78dcde5d5db20a61f834a6654c81edde25b184443842ebb38b29cf368f2bf"
+    },
+    "dob": "1988-03-09 05:40:24",
+    "registered": "2015-04-30 03:42:33",
+    "phone": "(131)-487-5825",
+    "cell": "(964)-048-4934",
+    "id": "936240f0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+    },
+    "nat": "NZ"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "abby",
+        "last": "george"
+    },
+    "location": {
+        "street": "9500 queens road",
+        "city": "liverpool",
+        "state": "gloucestershire",
+        "postcode": "VL3G 2JS"
+    },
+    "email": "abby.george@example.com",
+    "login": {
+        "username": "blackbutterfly251",
+        "password": "knickers",
+        "salt": "EE0gCGK0",
+        "md5": "739715d8bde69b6b84365bc7340ba014",
+        "sha1": "b4da0d6ada4399d1c0946806eab2d607d459e335",
+        "sha256": "b5771a46ce4c3a98e34cb02257e9ecc28960f432d639dc8d7c80899616a70ed6"
+    },
+    "dob": "1970-02-27 15:31:15",
+    "registered": "2011-01-11 01:08:12",
+    "phone": "017684 58336",
+    "cell": "0769-409-349",
+    "id": "93657540-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+    },
+    "nat": "GB"
+}

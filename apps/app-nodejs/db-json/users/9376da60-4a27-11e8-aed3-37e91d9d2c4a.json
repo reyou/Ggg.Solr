@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "joy",
+        "last": "lee"
+    },
+    "location": {
+        "street": "7464 lakeview st",
+        "city": "aurora",
+        "state": "north carolina",
+        "postcode": 79834
+    },
+    "email": "joy.lee@example.com",
+    "login": {
+        "username": "bigfish291",
+        "password": "chen",
+        "salt": "5aubT1Nf",
+        "md5": "62961ea67cda1525f62be8b6d3417af3",
+        "sha1": "604b729f587dc4c27a2adb1d703a0156299607f3",
+        "sha256": "2d42b9a3baa6725bbd5737ba68c99ce88d0abae8efcba6d5ce7fba93d70ef7ef"
+    },
+    "dob": "1979-03-29 05:06:35",
+    "registered": "2006-08-02 02:22:34",
+    "phone": "(392)-766-5765",
+    "cell": "(110)-737-5384",
+    "id": "9376da60-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/74.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+    },
+    "nat": "US"
+}

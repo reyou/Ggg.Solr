@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "sander",
+        "last": "pedersen"
+    },
+    "location": {
+        "street": "7538 ternevej",
+        "city": "stoevring",
+        "state": "nordjylland",
+        "postcode": 21596
+    },
+    "email": "sander.pedersen@example.com",
+    "login": {
+        "username": "purplesnake133",
+        "password": "edward1",
+        "salt": "SChm0kO7",
+        "md5": "ec304f02095c81f71d75ddad98398752",
+        "sha1": "bcd616914a64b93411615d44755ed73a92ad045d",
+        "sha256": "273d6e3544db129a7448e8cf2d1a3af8a51d63cfd08ca1dd6ff8557cccac4dc2"
+    },
+    "dob": "1992-08-13 20:53:08",
+    "registered": "2006-07-16 08:05:00",
+    "phone": "80198170",
+    "cell": "60392922",
+    "id": "936c04f0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    },
+    "nat": "DK"
+}

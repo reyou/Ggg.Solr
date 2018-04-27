@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "gonca",
+        "last": "çapanoğlu"
+    },
+    "location": {
+        "street": "5044 vatan cd",
+        "city": "kars",
+        "state": "burdur",
+        "postcode": 81125
+    },
+    "email": "gonca.çapanoğlu@example.com",
+    "login": {
+        "username": "silverbird369",
+        "password": "sandwich",
+        "salt": "PciVAS10",
+        "md5": "7939a9566ae3a202821c8a5877ac874d",
+        "sha1": "595d4488a2226ab47b800cca6ca5eb0b14d43712",
+        "sha256": "93482a7dea261ab9558d3e3ed30b8402282379fe59b086d480074015779301c0"
+    },
+    "dob": "1978-11-09 07:07:58",
+    "registered": "2012-02-24 17:41:40",
+    "phone": "(527)-191-3896",
+    "cell": "(888)-329-2929",
+    "id": "93833670-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/48.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+    },
+    "nat": "TR"
+}

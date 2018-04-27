@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "moritz",
+        "last": "kuhn"
+    },
+    "location": {
+        "street": "5220 industriestraße",
+        "city": "münster",
+        "state": "brandenburg",
+        "postcode": 87367
+    },
+    "email": "moritz.kuhn@example.com",
+    "login": {
+        "username": "purpletiger424",
+        "password": "raymond",
+        "salt": "SRpEpAmu",
+        "md5": "d3e6f6138f452c527c2083d5b78fb99b",
+        "sha1": "7a5d6ef0dfd637602cb628fe50d3cb884b090e93",
+        "sha256": "60b530cc07b7ab29f630c1a4e5cb44afee6339353382b8ff0e2097a37566c57b"
+    },
+    "dob": "1976-06-04 20:51:27",
+    "registered": "2009-03-30 07:27:12",
+    "phone": "0022-8110698",
+    "cell": "0179-8464729",
+    "id": "937309d0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/34.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    },
+    "nat": "DE"
+}

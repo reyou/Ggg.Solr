@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "madame",
+        "first": "lylou",
+        "last": "martinez"
+    },
+    "location": {
+        "street": "1783 place de l'église",
+        "city": "morges 1",
+        "state": "appenzell innerrhoden",
+        "postcode": 9229
+    },
+    "email": "lylou.martinez@example.com",
+    "login": {
+        "username": "heavydog881",
+        "password": "passion",
+        "salt": "pCUmon1r",
+        "md5": "dc9efa84ac369486963fb644fc53f99a",
+        "sha1": "b3b87e30e80efdd301d89a529cfd48fd8994b3a4",
+        "sha256": "36b18a48d78480acbd9c16a5b946ad7a2fd8909d577810b5979809783c7a7519"
+    },
+    "dob": "1953-12-01 10:39:34",
+    "registered": "2008-09-15 14:41:34",
+    "phone": "(889)-707-8647",
+    "cell": "(691)-420-2978",
+    "id": "936c5310-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+    },
+    "nat": "CH"
+}

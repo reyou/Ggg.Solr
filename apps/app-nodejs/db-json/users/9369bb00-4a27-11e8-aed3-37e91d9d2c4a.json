@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "felicia",
+        "last": "richards"
+    },
+    "location": {
+        "street": "3594 dogwood ave",
+        "city": "mackay",
+        "state": "northern territory",
+        "postcode": 5878
+    },
+    "email": "felicia.richards@example.com",
+    "login": {
+        "username": "whitepanda279",
+        "password": "challeng",
+        "salt": "XuP84jC0",
+        "md5": "e87278fcfaec720eb132203babb3fc53",
+        "sha1": "330d677e42460227ba06d11a2679016b0d060b61",
+        "sha256": "54aa0dbda64924c27e1a2fdb0ca55b9f17e27e09c03a61ef9a664617ce724076"
+    },
+    "dob": "1984-12-26 09:12:28",
+    "registered": "2003-03-02 00:30:18",
+    "phone": "07-9683-2024",
+    "cell": "0487-799-700",
+    "id": "9369bb00-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/17.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+    },
+    "nat": "AU"
+}

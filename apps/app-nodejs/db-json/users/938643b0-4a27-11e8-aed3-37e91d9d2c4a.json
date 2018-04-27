@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "naomi",
+        "last": "martin"
+    },
+    "location": {
+        "street": "7915 rue des écoles",
+        "city": "perpignan",
+        "state": "pyrénées-atlantiques",
+        "postcode": 10691
+    },
+    "email": "naomi.martin@example.com",
+    "login": {
+        "username": "heavyfrog759",
+        "password": "dogman",
+        "salt": "UjfEQgAc",
+        "md5": "6f3fdae4c03922885168ecec3bcc0142",
+        "sha1": "0271873fced7cba2ea5b9dac4f1f83fdb6cf6f35",
+        "sha256": "f9207ad2338da5255760d09fe53faae6704270716093187d312c6f02f62f47eb"
+    },
+    "dob": "1945-11-17 13:16:19",
+    "registered": "2004-12-02 17:20:20",
+    "phone": "04-01-66-08-22",
+    "cell": "06-78-85-38-80",
+    "id": "938643b0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/30.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    },
+    "nat": "FR"
+}

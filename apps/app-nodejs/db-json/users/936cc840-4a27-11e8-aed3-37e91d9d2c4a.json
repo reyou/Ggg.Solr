@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "theodore",
+        "last": "hughes"
+    },
+    "location": {
+        "street": "9289 innes road",
+        "city": "new plymouth",
+        "state": "manawatu-wanganui",
+        "postcode": 12712
+    },
+    "email": "theodore.hughes@example.com",
+    "login": {
+        "username": "silverwolf529",
+        "password": "explorer",
+        "salt": "MRPuKGb9",
+        "md5": "0ceb596f30b4fae1b44118f5104f1e34",
+        "sha1": "fd4a3de15448e7ef8b5498962fef070a851e640e",
+        "sha256": "5e1a76320249fccc36133db9458a205d59f20e3b558f1cb371861ba0b230b253"
+    },
+    "dob": "1951-09-22 21:32:53",
+    "registered": "2013-03-12 23:16:33",
+    "phone": "(718)-216-9718",
+    "cell": "(776)-812-9691",
+    "id": "936cc840-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    },
+    "nat": "NZ"
+}

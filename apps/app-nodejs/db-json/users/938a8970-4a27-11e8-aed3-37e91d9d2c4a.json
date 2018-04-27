@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "brooke",
+        "last": "wood"
+    },
+    "location": {
+        "street": "5977 church road",
+        "city": "buncrana",
+        "state": "kilkenny",
+        "postcode": 23694
+    },
+    "email": "brooke.wood@example.com",
+    "login": {
+        "username": "orangebutterfly909",
+        "password": "raquel",
+        "salt": "BJhYwYhP",
+        "md5": "857d076c06bc9288ddd318ac1461c0f6",
+        "sha1": "2967bfde5a3b79ec195d01a597acb73af0110fd9",
+        "sha256": "e423963121f1a74608351a14aa820cf406f43a665af27b975fceb001ca8a0554"
+    },
+    "dob": "1991-09-22 06:05:25",
+    "registered": "2010-12-30 15:44:25",
+    "phone": "051-213-1708",
+    "cell": "081-764-0122",
+    "id": "938a8970-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/87.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+    },
+    "nat": "IE"
+}

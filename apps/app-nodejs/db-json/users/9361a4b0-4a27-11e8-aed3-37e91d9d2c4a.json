@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "sara",
+        "last": "thomsen"
+    },
+    "location": {
+        "street": "9277 syrenvej",
+        "city": "skaerbaek",
+        "state": "midtjylland",
+        "postcode": 89150
+    },
+    "email": "sara.thomsen@example.com",
+    "login": {
+        "username": "goldenpeacock513",
+        "password": "741852",
+        "salt": "bFGnkxSF",
+        "md5": "ccb72380f3ef996da6a456235ac2e077",
+        "sha1": "b1875c991ddce263eb7aee8d96f3c2dd9c429c8c",
+        "sha256": "f06194b9ee7028ec7c7e5ba159732dcf1dc8cb1025731fc71dbb8dd3b9907119"
+    },
+    "dob": "1955-11-27 07:39:04",
+    "registered": "2009-05-05 14:27:45",
+    "phone": "39373829",
+    "cell": "98153305",
+    "id": "9361a4b0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/87.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+    },
+    "nat": "DK"
+}

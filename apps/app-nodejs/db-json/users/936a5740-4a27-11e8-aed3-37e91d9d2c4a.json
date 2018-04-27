@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "monsieur",
+        "first": "livio",
+        "last": "picard"
+    },
+    "location": {
+        "street": "3380 route de genas",
+        "city": "monnaz",
+        "state": "zürich",
+        "postcode": 8238
+    },
+    "email": "livio.picard@example.com",
+    "login": {
+        "username": "heavypeacock171",
+        "password": "overlord",
+        "salt": "713k2Qy4",
+        "md5": "c6eb1266e97e488e9786a8567ad641c2",
+        "sha1": "a8f1ec3d5835ca390362e2bc6580efdbc7cf4882",
+        "sha256": "e7f693791566abbf164bcf3827b35110ea5c76563b6e3b86248f3c96d36be8b3"
+    },
+    "dob": "1988-11-12 06:56:24",
+    "registered": "2007-10-07 09:42:30",
+    "phone": "(081)-476-2492",
+    "cell": "(084)-449-8308",
+    "id": "936a5740-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/77.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    },
+    "nat": "CH"
+}

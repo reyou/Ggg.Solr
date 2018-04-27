@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "bruce",
+        "last": "russell"
+    },
+    "location": {
+        "street": "9180 church lane",
+        "city": "bath",
+        "state": "hampshire",
+        "postcode": "FJ74 6AR"
+    },
+    "email": "bruce.russell@example.com",
+    "login": {
+        "username": "lazypeacock748",
+        "password": "bacon",
+        "salt": "6WhHcuhL",
+        "md5": "81d6dcf29defbd8fbec35a4de1081c65",
+        "sha1": "36e10de02514fb8a3b08c2966da6ac4cdd436eb6",
+        "sha256": "37650764a44d2202074f438fe907f6f9a919234e2460654a49c3993cc7387466"
+    },
+    "dob": "1962-12-20 07:39:45",
+    "registered": "2011-10-28 09:49:34",
+    "phone": "015394 38172",
+    "cell": "0745-759-657",
+    "id": "93792450-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/79.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    },
+    "nat": "GB"
+}

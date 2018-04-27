@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "wesley",
+        "last": "black"
+    },
+    "location": {
+        "street": "2661 oak lawn ave",
+        "city": "warragul",
+        "state": "australian capital territory",
+        "postcode": 7626
+    },
+    "email": "wesley.black@example.com",
+    "login": {
+        "username": "goldengorilla430",
+        "password": "kate",
+        "salt": "7JqQGm8z",
+        "md5": "66cc88283bedc1acf6a61e17031c7f28",
+        "sha1": "38fb8034dc244f54b66b55802fccae689edbba03",
+        "sha256": "51ef7f4611bdd638e9d2c25210cfed9159478a76121dfa036055afa10ddd574e"
+    },
+    "dob": "1988-02-19 03:56:16",
+    "registered": "2015-06-25 05:12:39",
+    "phone": "09-2819-3177",
+    "cell": "0449-972-000",
+    "id": "937f17c0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/79.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    },
+    "nat": "AU"
+}

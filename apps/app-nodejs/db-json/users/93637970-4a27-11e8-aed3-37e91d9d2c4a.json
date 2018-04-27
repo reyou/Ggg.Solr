@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "clémence",
+        "last": "masson"
+    },
+    "location": {
+        "street": "1697 rue des ecrivains",
+        "city": "caen",
+        "state": "creuse",
+        "postcode": 24078
+    },
+    "email": "clémence.masson@example.com",
+    "login": {
+        "username": "tinydog951",
+        "password": "dominion",
+        "salt": "IJpl16XX",
+        "md5": "17689c1d9ff720ce2b313b396a7513ba",
+        "sha1": "0dc2f2551915f4a5eaa75d9718c039c7e9d00517",
+        "sha256": "31d49a906b7ce0adb71de42fd76693befa3222d5951109966536e7c32c1f8ae4"
+    },
+    "dob": "1989-07-02 14:47:01",
+    "registered": "2009-02-24 13:02:45",
+    "phone": "01-67-37-74-76",
+    "cell": "06-18-69-86-63",
+    "id": "93637970-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/30.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    },
+    "nat": "FR"
+}

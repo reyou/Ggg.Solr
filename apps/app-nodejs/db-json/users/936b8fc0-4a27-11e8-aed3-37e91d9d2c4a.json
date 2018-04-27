@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "greg",
+        "last": "chapman"
+    },
+    "location": {
+        "street": "7475 groveland terrace",
+        "city": "waxahachie",
+        "state": "north carolina",
+        "postcode": 79202
+    },
+    "email": "greg.chapman@example.com",
+    "login": {
+        "username": "orangegorilla341",
+        "password": "foolish",
+        "salt": "XCysHmZy",
+        "md5": "ff67d5ff93e6196b9849c2a2f5940dc4",
+        "sha1": "f8984e63f254a9558e3225f3581483d76ba8da32",
+        "sha256": "5b86ef6a52609b4a1b7cf1f2e1e02e5f7de5f46358825a6a3249ead45df15940"
+    },
+    "dob": "1994-11-18 13:01:29",
+    "registered": "2015-07-27 15:42:29",
+    "phone": "(512)-178-8679",
+    "cell": "(359)-485-3342",
+    "id": "936b8fc0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/8.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    },
+    "nat": "US"
+}

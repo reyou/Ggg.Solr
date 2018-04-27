@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "isabella",
+        "last": "taylor"
+    },
+    "location": {
+        "street": "5260 alexandra street",
+        "city": "new plymouth",
+        "state": "bay of plenty",
+        "postcode": 16786
+    },
+    "email": "isabella.taylor@example.com",
+    "login": {
+        "username": "redcat746",
+        "password": "dimas",
+        "salt": "dRO7GzQQ",
+        "md5": "dfd36b84ff08fcb8148586256fae2769",
+        "sha1": "2401529d034f4a1df885828f703f888b50191e07",
+        "sha256": "0c2d11bce6aafad25f0045bffc4bb3209e93e6821c5b5a726d0b3290fea8da7b"
+    },
+    "dob": "1949-03-19 12:47:48",
+    "registered": "2014-11-29 19:16:40",
+    "phone": "(731)-295-3952",
+    "cell": "(767)-042-7057",
+    "id": "9387ca50-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+    },
+    "nat": "NZ"
+}

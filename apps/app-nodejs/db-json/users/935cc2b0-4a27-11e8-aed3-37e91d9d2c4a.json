@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "simon",
+        "last": "sørensen"
+    },
+    "location": {
+        "street": "1224 egholmvej",
+        "city": "roskilde",
+        "state": "hovedstaden",
+        "postcode": 17670
+    },
+    "email": "simon.sørensen@example.com",
+    "login": {
+        "username": "silverfrog738",
+        "password": "vernon",
+        "salt": "IWuGZZ2y",
+        "md5": "3795853e0cfb95324335134b7d61d625",
+        "sha1": "06db5663a61f89f62e639f7d6cfc037cf8d5b572",
+        "sha256": "a59a5b198646b1daa6dea938187305c4fe72186e281cd2e38fcddb4532e62ca9"
+    },
+    "dob": "1987-03-22 14:39:55",
+    "registered": "2007-06-14 23:36:55",
+    "phone": "30937128",
+    "cell": "92098023",
+    "id": "935cc2b0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/19.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    },
+    "nat": "DK"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "troy",
+        "last": "newman"
+    },
+    "location": {
+        "street": "3173 bruce st",
+        "city": "berkeley",
+        "state": "kansas",
+        "postcode": 14673
+    },
+    "email": "troy.newman@example.com",
+    "login": {
+        "username": "whitebird709",
+        "password": "candice",
+        "salt": "NcEZjSPn",
+        "md5": "0fae82218a4588799bd566ba499b76c3",
+        "sha1": "18bc8f367e4ea1fc58af9bbfc29a78b301dff912",
+        "sha256": "99cbe068cbcaf1953cf4efabbb7ceec8155f88e2fc9d9780615bd40a699a7439"
+    },
+    "dob": "1944-09-11 09:46:43",
+    "registered": "2011-10-28 05:21:31",
+    "phone": "(008)-906-2363",
+    "cell": "(559)-434-5052",
+    "id": "9363c790-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/15.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+    },
+    "nat": "US"
+}

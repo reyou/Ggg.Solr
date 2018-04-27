@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "marie",
+        "last": "poulsen"
+    },
+    "location": {
+        "street": "8874 lundvej",
+        "city": "gjern",
+        "state": "hovedstaden",
+        "postcode": 87631
+    },
+    "email": "marie.poulsen@example.com",
+    "login": {
+        "username": "bluedog404",
+        "password": "corwin",
+        "salt": "R1Cx2mfs",
+        "md5": "0735768ceb2d46a1e76a14d81fa52489",
+        "sha1": "a356de67590a7175bdc9d09ce9dab801ef5d447e",
+        "sha256": "10360ce1a024bdc3e7151ad284cdda6512d440abf668a08893b4f18c9c0fc9be"
+    },
+    "dob": "1955-06-06 06:36:39",
+    "registered": "2004-11-24 04:53:04",
+    "phone": "06443082",
+    "cell": "68667475",
+    "id": "93677110-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+    },
+    "nat": "DK"
+}

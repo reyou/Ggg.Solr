@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "higino",
+        "last": "da cunha"
+    },
+    "location": {
+        "street": "1606 avenida da legalidade",
+        "city": "uruguaiana",
+        "state": "espírito santo",
+        "postcode": 30186
+    },
+    "email": "higino.dacunha@example.com",
+    "login": {
+        "username": "greenduck690",
+        "password": "wingman",
+        "salt": "Ysrz9q2T",
+        "md5": "ff8e12fd498564f96d06bb3c723d9f26",
+        "sha1": "5a5bfae941c488be5d326dfa7f78c57ad1401690",
+        "sha256": "a58d4d730b933bda13486d7568242187d6c2736c2f7b338c0c63396699ad6be0"
+    },
+    "dob": "1956-08-06 20:31:15",
+    "registered": "2005-10-16 15:21:39",
+    "phone": "(04) 5877-4856",
+    "cell": "(14) 9781-6372",
+    "id": "93744250-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/73.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    },
+    "nat": "BR"
+}

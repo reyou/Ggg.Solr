@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "corentin",
+        "last": "lemoine"
+    },
+    "location": {
+        "street": "6343 rue du dauphiné",
+        "city": "villeurbanne",
+        "state": "côtes-d'armor",
+        "postcode": 91623
+    },
+    "email": "corentin.lemoine@example.com",
+    "login": {
+        "username": "silverostrich865",
+        "password": "readers",
+        "salt": "8thIaSki",
+        "md5": "5a31b7eacdde3676690c7c24e6695740",
+        "sha1": "a8bb30b271755be22a742d677c36a95890cac841",
+        "sha256": "c58eaf7e0b7258271f1578d146edcc3d61202ba516344281f1ba383f7ad8f9ce"
+    },
+    "dob": "1989-04-13 01:20:36",
+    "registered": "2011-02-14 01:09:50",
+    "phone": "03-55-05-11-20",
+    "cell": "06-59-80-87-34",
+    "id": "93601e10-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+    },
+    "nat": "FR"
+}

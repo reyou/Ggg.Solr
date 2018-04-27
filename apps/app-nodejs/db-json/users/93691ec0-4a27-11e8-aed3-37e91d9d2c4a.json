@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "ellen",
+        "last": "nikula"
+    },
+    "location": {
+        "street": "5657 aleksanterinkatu",
+        "city": "perho",
+        "state": "ostrobothnia",
+        "postcode": 49634
+    },
+    "email": "ellen.nikula@example.com",
+    "login": {
+        "username": "bigmouse282",
+        "password": "7777777",
+        "salt": "iE0BEgBG",
+        "md5": "dafc292ca6085eb11f3b731a91174bda",
+        "sha1": "135db6be694ed6fb1a0679d77b610e98aad7a780",
+        "sha256": "80752d3c96ca97c847ecfbec9d2f60c49eb547ca5d83ed7daa9a303cb8472e04"
+    },
+    "dob": "1981-01-21 11:51:37",
+    "registered": "2015-04-22 03:21:57",
+    "phone": "09-756-007",
+    "cell": "044-962-35-89",
+    "id": "93691ec0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/37.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    },
+    "nat": "FI"
+}

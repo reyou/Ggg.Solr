@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "jordan",
+        "last": "howard"
+    },
+    "location": {
+        "street": "4487 stanley road",
+        "city": "peterborough",
+        "state": "essex",
+        "postcode": "F49 2PZ"
+    },
+    "email": "jordan.howard@example.com",
+    "login": {
+        "username": "blackbear300",
+        "password": "mortal",
+        "salt": "NjRzczqu",
+        "md5": "7fe7ec84724827528d76ca6d40d3fa9f",
+        "sha1": "38da0bc481a879226bb9b56be067ad45d322879b",
+        "sha256": "8980a27866cb5cd6ca618fdd71949b21dd34eba0919358b9ffc62f18b94401bb"
+    },
+    "dob": "1983-12-15 05:54:10",
+    "registered": "2008-07-18 04:43:16",
+    "phone": "013873 13311",
+    "cell": "0785-112-645",
+    "id": "9379e7a0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+    },
+    "nat": "GB"
+}

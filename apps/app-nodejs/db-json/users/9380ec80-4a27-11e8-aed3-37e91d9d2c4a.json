@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "marlene",
+        "last": "crawford"
+    },
+    "location": {
+        "street": "7763 westheimer rd",
+        "city": "topeka",
+        "state": "delaware",
+        "postcode": 59154
+    },
+    "email": "marlene.crawford@example.com",
+    "login": {
+        "username": "bluemouse729",
+        "password": "racing",
+        "salt": "1TKsB5Ii",
+        "md5": "4f58a23dfefe92119f485b3cdaea8eb7",
+        "sha1": "2116fe6fd8959b3f8cc5099478c59a5af26a1187",
+        "sha256": "3045f97da33a9f489ffdf547ef4032f8743954d1b9586ab96205c1a04c72729f"
+    },
+    "dob": "1980-11-16 18:24:45",
+    "registered": "2010-01-17 10:49:53",
+    "phone": "(765)-924-1502",
+    "cell": "(185)-178-2979",
+    "id": "9380ec80-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+    },
+    "nat": "US"
+}

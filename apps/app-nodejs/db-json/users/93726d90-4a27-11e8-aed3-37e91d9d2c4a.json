@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mademoiselle",
+        "first": "maëlia",
+        "last": "gonzalez"
+    },
+    "location": {
+        "street": "6723 rue abel-ferry",
+        "city": "morges 2",
+        "state": "ticino",
+        "postcode": 7795
+    },
+    "email": "maëlia.gonzalez@example.com",
+    "login": {
+        "username": "bluegorilla956",
+        "password": "1111",
+        "salt": "UheD0iRC",
+        "md5": "5598af6094bbcd56301f06697a4c1070",
+        "sha1": "cd3dbce809fba74dbe510827156ae8e91b72319f",
+        "sha256": "93ec7f80ba6de3e915d5f361ad975f850b93ab012bc0e783a640534c1cd61f73"
+    },
+    "dob": "1948-03-16 10:41:41",
+    "registered": "2010-01-05 08:55:36",
+    "phone": "(751)-066-7484",
+    "cell": "(662)-705-9599",
+    "id": "93726d90-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+    },
+    "nat": "CH"
+}

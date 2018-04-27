@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "carl",
+        "last": "nielsen"
+    },
+    "location": {
+        "street": "8947 åbakken",
+        "city": "øster assels",
+        "state": "nordjylland",
+        "postcode": 40274
+    },
+    "email": "carl.nielsen@example.com",
+    "login": {
+        "username": "yellowostrich198",
+        "password": "laddie",
+        "salt": "R8nbHT8Y",
+        "md5": "ebe1e9b0f8eb0330ebc69fb320077b78",
+        "sha1": "33ec5cce825192574f58e91a8ac5c981113b3081",
+        "sha256": "7aed5e9024494ce1d6702a66de1a052f2435ae7d00822ebb199328e8f61a1764"
+    },
+    "dob": "1945-08-04 04:42:31",
+    "registered": "2009-05-26 20:53:16",
+    "phone": "18093619",
+    "cell": "67530489",
+    "id": "936722f0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    },
+    "nat": "DK"
+}

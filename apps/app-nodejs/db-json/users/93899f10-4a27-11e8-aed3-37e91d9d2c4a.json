@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "millie",
+        "last": "davies"
+    },
+    "location": {
+        "street": "8650 prestons road",
+        "city": "new plymouth",
+        "state": "gisborne",
+        "postcode": 54566
+    },
+    "email": "millie.davies@example.com",
+    "login": {
+        "username": "browngoose654",
+        "password": "hamburg",
+        "salt": "CGXpizAS",
+        "md5": "3e1edfc67766697f9d1ecd38cff91cec",
+        "sha1": "6ad160c8c7270dea74eb3e005ce57f778601fa67",
+        "sha256": "3ca71b617a00f923be143124de474eb85739f75b0e071b96c43c8153396f5011"
+    },
+    "dob": "1980-07-15 13:51:00",
+    "registered": "2010-01-13 04:58:21",
+    "phone": "(887)-997-7015",
+    "cell": "(932)-394-9513",
+    "id": "93899f10-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/87.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+    },
+    "nat": "NZ"
+}

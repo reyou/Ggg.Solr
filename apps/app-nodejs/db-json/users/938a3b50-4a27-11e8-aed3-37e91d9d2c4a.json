@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mademoiselle",
+        "first": "amelia",
+        "last": "lefebvre"
+    },
+    "location": {
+        "street": "5817 rue de l'abbé-patureau",
+        "city": "syens",
+        "state": "fribourg",
+        "postcode": 8754
+    },
+    "email": "amelia.lefebvre@example.com",
+    "login": {
+        "username": "greenmeercat210",
+        "password": "duane",
+        "salt": "h4hecNug",
+        "md5": "7379d9cc18f81eec1d042bfdcdc6cbfd",
+        "sha1": "0832b5fa3a3705af16421d3edfc639b0de66a757",
+        "sha256": "65cf7e7bed10dfe490a0e684b83da1e948ee904cc4b3b21b29e69c0f2a58a45b"
+    },
+    "dob": "1970-09-26 17:45:48",
+    "registered": "2010-10-02 12:06:47",
+    "phone": "(054)-472-9595",
+    "cell": "(506)-491-5831",
+    "id": "938a3b50-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+    },
+    "nat": "CH"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "monsieur",
+        "first": "gaëtan",
+        "last": "dumont"
+    },
+    "location": {
+        "street": "4697 place du 8 novembre 1942",
+        "city": "la conversion",
+        "state": "bern",
+        "postcode": 4554
+    },
+    "email": "gaëtan.dumont@example.com",
+    "login": {
+        "username": "bigbear380",
+        "password": "1021",
+        "salt": "VhJ6YMe3",
+        "md5": "e2b72fb46942c058469da380d1d798f1",
+        "sha1": "ff37273ae238dc7193e20294fe5b6dc8b9e04c90",
+        "sha256": "67c09f5d994c14a5158a23392e3bfda4068378cff2c0d4a3d0de3341e126fc4c"
+    },
+    "dob": "1972-08-02 21:22:44",
+    "registered": "2004-05-28 16:19:57",
+    "phone": "(924)-783-7723",
+    "cell": "(194)-998-1850",
+    "id": "93612f80-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    },
+    "nat": "CH"
+}

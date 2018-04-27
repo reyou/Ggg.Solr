@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "onur",
+        "last": "adan"
+    },
+    "location": {
+        "street": "7577 istiklal cd",
+        "city": "çanakkale",
+        "state": "ağrı",
+        "postcode": 14293
+    },
+    "email": "onur.adan@example.com",
+    "login": {
+        "username": "goldenmouse139",
+        "password": "andrew",
+        "salt": "cxMOFHYe",
+        "md5": "1df16fb0d1ac5436de7257391f80682c",
+        "sha1": "f61784bfaa7bbb7d647bfd05ff89c54831b5a119",
+        "sha256": "d54008c65e9311a98a5b3a90ad428c8061f790c425cdc003ac858d423425a462"
+    },
+    "dob": "1981-03-12 10:30:10",
+    "registered": "2010-05-04 07:57:50",
+    "phone": "(460)-103-5897",
+    "cell": "(489)-306-4877",
+    "id": "937776a0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/48.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    },
+    "nat": "TR"
+}

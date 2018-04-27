@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "jordan",
+        "last": "riley"
+    },
+    "location": {
+        "street": "7349 o'connell street",
+        "city": "ballina",
+        "state": "dublin city",
+        "postcode": 47716
+    },
+    "email": "jordan.riley@example.com",
+    "login": {
+        "username": "bigfrog734",
+        "password": "bergkamp",
+        "salt": "HTS2ykYL",
+        "md5": "8c4906323f80fb96384b3ee24ec7c5f3",
+        "sha1": "133e043d169e34cfb14a1138106d262365036758",
+        "sha256": "461a995d244deb1fc4172420f7bf1e9ce63955a1963aa5be984bf1a378a21915"
+    },
+    "dob": "1945-07-10 08:13:51",
+    "registered": "2015-01-18 18:41:46",
+    "phone": "051-465-9398",
+    "cell": "081-811-5400",
+    "id": "9366d4d0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/47.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    },
+    "nat": "IE"
+}

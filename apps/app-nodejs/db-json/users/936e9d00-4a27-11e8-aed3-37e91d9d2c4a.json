@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "melvin",
+        "last": "phillips"
+    },
+    "location": {
+        "street": "5620 white oak dr",
+        "city": "topeka",
+        "state": "vermont",
+        "postcode": 12125
+    },
+    "email": "melvin.phillips@example.com",
+    "login": {
+        "username": "brownfish664",
+        "password": "insomnia",
+        "salt": "rnnfmfT1",
+        "md5": "3582528655c03af05a2f0ff5ec47e5cb",
+        "sha1": "0e9d0f6b8669969fde389649d964d79d01e9e90f",
+        "sha256": "c77ff910d1690f9116e8040a7315c120b8cc9cdf7a43fc664b13758088fd2fe8"
+    },
+    "dob": "1985-12-29 18:53:49",
+    "registered": "2006-06-18 14:12:49",
+    "phone": "(933)-636-8728",
+    "cell": "(882)-846-0742",
+    "id": "936e9d00-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/84.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+    },
+    "nat": "US"
+}

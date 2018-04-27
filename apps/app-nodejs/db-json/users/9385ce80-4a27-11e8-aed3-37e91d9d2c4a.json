@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "eugenia",
+        "last": "hidalgo"
+    },
+    "location": {
+        "street": "6831 calle del barquillo",
+        "city": "ferrol",
+        "state": "castilla y león",
+        "postcode": 42362
+    },
+    "email": "eugenia.hidalgo@example.com",
+    "login": {
+        "username": "purpleladybug158",
+        "password": "1dragon",
+        "salt": "hlDygMCT",
+        "md5": "f124cc81a6a98ca3e0402cb8cf4542b7",
+        "sha1": "167ed66c388ce57f9981d7bbcb8794701dd1f7e2",
+        "sha256": "daa81901de6a7ef37b58b0953fa8934eb41f40ee3d82367c00e49ea49ea68359"
+    },
+    "dob": "1985-11-24 18:47:52",
+    "registered": "2005-02-14 21:25:27",
+    "phone": "903-685-770",
+    "cell": "644-445-631",
+    "id": "9385ce80-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/38.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    },
+    "nat": "ES"
+}

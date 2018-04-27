@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "florisbela",
+        "last": "da conceição"
+    },
+    "location": {
+        "street": "5472 rua treze ",
+        "city": "natal",
+        "state": "sergipe",
+        "postcode": 23117
+    },
+    "email": "florisbela.daconceição@example.com",
+    "login": {
+        "username": "whiteleopard409",
+        "password": "water1",
+        "salt": "5GhPjRdI",
+        "md5": "88f62f445670ee96ae58517565c8634f",
+        "sha1": "5aeb8e7791462c7850fbc117379f986f14235f54",
+        "sha256": "6fe1a9a4719826b48e7f2fc1cb67222c9365b519e4fefad7d846c3b78fa15c09"
+    },
+    "dob": "1988-06-24 19:24:47",
+    "registered": "2006-08-14 10:56:07",
+    "phone": "(10) 5804-2763",
+    "cell": "(57) 1551-8071",
+    "id": "936acc70-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/6.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    },
+    "nat": "BR"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "alfred",
+        "last": "marquardt"
+    },
+    "location": {
+        "street": "3744 jahnstraße",
+        "city": "berlin",
+        "state": "baden-württemberg",
+        "postcode": 70455
+    },
+    "email": "alfred.marquardt@example.com",
+    "login": {
+        "username": "browntiger202",
+        "password": "hollow",
+        "salt": "UeLGUU7t",
+        "md5": "c7c472e7bb0b9b19ade8abe331c84cf0",
+        "sha1": "131d317f4c251e81ac1ff4d0e66abf2ae1958bbd",
+        "sha256": "e43b215e0a347d4a836df99de7d65e9d8f9148dc022b6b112b56f28a3a5be73c"
+    },
+    "dob": "1945-05-17 22:24:52",
+    "registered": "2010-07-26 09:46:04",
+    "phone": "0283-4498803",
+    "cell": "0172-7005150",
+    "id": "9377ebd0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    },
+    "nat": "DE"
+}

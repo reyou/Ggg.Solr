@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "elizabeth",
+        "last": "claire"
+    },
+    "location": {
+        "street": "3003 st. catherine st",
+        "city": "richmond",
+        "state": "alberta",
+        "postcode": 68782
+    },
+    "email": "elizabeth.claire@example.com",
+    "login": {
+        "username": "bigfrog278",
+        "password": "fishing1",
+        "salt": "J2aFWOG6",
+        "md5": "ff222bc88fe06b89e8f7870f7f11bb23",
+        "sha1": "7c08f6acd04cc908ad2d64195f6bcb0fdb60b2b2",
+        "sha256": "3e1737fc60f09694dd2bd04eae335f950f4d0add7f2b1b13ffca889057e8b479"
+    },
+    "dob": "1983-01-12 16:43:59",
+    "registered": "2014-01-21 09:06:23",
+    "phone": "805-600-7903",
+    "cell": "575-326-9284",
+    "id": "93855950-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/77.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+    },
+    "nat": "CA"
+}

@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "julia",
+        "last": "walters"
+    },
+    "location": {
+        "street": "2192 rolling green rd",
+        "city": "shiloh",
+        "state": "mississippi",
+        "postcode": 11027
+    },
+    "email": "julia.walters@example.com",
+    "login": {
+        "username": "lazyduck957",
+        "password": "mamas",
+        "salt": "6v3FDk1V",
+        "md5": "60c4bfa93f07dbb21a5347cfcea984d0",
+        "sha1": "4dadfa5629280acf1e0f55a92742364c2dffc016",
+        "sha256": "f72a14d5ae5435fa9ba80e7715775d9fcac6bd7563a18dd9f1c842cb5c05399a"
+    },
+    "dob": "1945-12-08 14:33:28",
+    "registered": "2007-10-07 19:56:54",
+    "phone": "(721)-419-3335",
+    "cell": "(261)-907-6041",
+    "id": "9367bf30-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/72.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+    },
+    "nat": "US"
+}

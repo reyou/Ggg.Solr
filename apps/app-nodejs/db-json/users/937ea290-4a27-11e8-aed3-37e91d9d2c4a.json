@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "kaylee",
+        "last": "taylor"
+    },
+    "location": {
+        "street": "9200 crockett st",
+        "city": "wagga wagga",
+        "state": "australian capital territory",
+        "postcode": 4308
+    },
+    "email": "kaylee.taylor@example.com",
+    "login": {
+        "username": "purpleladybug653",
+        "password": "snoopdog",
+        "salt": "47FZ1msP",
+        "md5": "ca130e400d7a4e62aca081825edae3d9",
+        "sha1": "00771bb2689f418250027579b01f202a938898db",
+        "sha256": "5befbf2e0dfba21e9584c3955df9bbe83106fb99d284295363d51482439240c4"
+    },
+    "dob": "1983-06-09 13:15:57",
+    "registered": "2008-05-10 02:32:33",
+    "phone": "08-6758-7159",
+    "cell": "0406-170-384",
+    "id": "937ea290-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+    },
+    "nat": "AU"
+}

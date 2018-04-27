@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "juan",
+        "last": "vega"
+    },
+    "location": {
+        "street": "7694 paseo de extremadura",
+        "city": "cuenca",
+        "state": "navarra",
+        "postcode": 37843
+    },
+    "email": "juan.vega@example.com",
+    "login": {
+        "username": "brownpeacock207",
+        "password": "vegeta",
+        "salt": "Hy8F27Ll",
+        "md5": "61e8618555bfcfc9eabb050d0178ab26",
+        "sha1": "29e08db316ef36814cb3c504c6b3fdb938980bd5",
+        "sha256": "e940dc9fd190065ac935cf2194ab6441f564ebe3f503bc6f40d2e69c4f1e101a"
+    },
+    "dob": "1953-12-01 14:21:10",
+    "registered": "2009-02-26 02:17:05",
+    "phone": "918-469-959",
+    "cell": "671-721-515",
+    "id": "93872e10-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/63.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    },
+    "nat": "ES"
+}

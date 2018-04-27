@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "angus",
+        "last": "robinson"
+    },
+    "location": {
+        "street": "3978 puhinui road",
+        "city": "hastings",
+        "state": "hawke's bay",
+        "postcode": 35926
+    },
+    "email": "angus.robinson@example.com",
+    "login": {
+        "username": "tinycat209",
+        "password": "pimping",
+        "salt": "0jxKpBck",
+        "md5": "cc8d6e96fb604cb1b5ce7ef2bd5b3db4",
+        "sha1": "7e14fdfaf411c3dceafe970ecdf267072f8a2b20",
+        "sha256": "76667f74a3958222fcb0e289c9216ef822ff044519528577e4806031e062d8e3"
+    },
+    "dob": "1989-04-12 06:11:45",
+    "registered": "2008-04-07 08:58:03",
+    "phone": "(916)-722-5432",
+    "cell": "(323)-932-6423",
+    "id": "9365ea70-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/85.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    },
+    "nat": "NZ"
+}

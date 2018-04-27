@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "nick",
+        "last": "peterson"
+    },
+    "location": {
+        "street": "6235 tara street",
+        "city": "clonakilty",
+        "state": "kildare",
+        "postcode": 60504
+    },
+    "email": "nick.peterson@example.com",
+    "login": {
+        "username": "crazyswan325",
+        "password": "dorian",
+        "salt": "0kt3hscJ",
+        "md5": "8ea5f919f07f17accca4a82943ffb6d9",
+        "sha1": "bd4a1d45830d3e10168d056715d9f12b08f16d1b",
+        "sha256": "4bac18a054e7bcd7a1395539a7484af1b903dc80be393381d1dec4b476bd5167"
+    },
+    "dob": "1988-03-26 08:53:59",
+    "registered": "2006-05-31 09:03:25",
+    "phone": "021-347-6760",
+    "cell": "081-471-9673",
+    "id": "93665fa0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    },
+    "nat": "IE"
+}

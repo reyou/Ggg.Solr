@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "malou",
+        "last": "larsen"
+    },
+    "location": {
+        "street": "2849 svalevej",
+        "city": "aarhus",
+        "state": "danmark",
+        "postcode": 91917
+    },
+    "email": "malou.larsen@example.com",
+    "login": {
+        "username": "blackfish277",
+        "password": "barefoot",
+        "salt": "Gl5hF6gC",
+        "md5": "aaeb502f8392b9a570ad901c6d58ae66",
+        "sha1": "ec156c72c61f119f374abbb87a65387799075693",
+        "sha256": "9192b05ec5fa1620a10cdec3f184a3de349f02acd5e333a3b19007a1d42a5b48"
+    },
+    "dob": "1952-07-19 23:45:49",
+    "registered": "2011-07-31 04:53:57",
+    "phone": "62487033",
+    "cell": "77078116",
+    "id": "9374de90-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/13.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+    },
+    "nat": "DK"
+}

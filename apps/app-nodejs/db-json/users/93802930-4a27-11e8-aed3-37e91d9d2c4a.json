@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "beatrice",
+        "last": "ambrose"
+    },
+    "location": {
+        "street": "4724 peel st",
+        "city": "victoria",
+        "state": "manitoba",
+        "postcode": 92019
+    },
+    "email": "beatrice.ambrose@example.com",
+    "login": {
+        "username": "bluewolf806",
+        "password": "revoluti",
+        "salt": "LcqOyJ9U",
+        "md5": "5a382633d3246d30c305562296542b60",
+        "sha1": "243e91b862d0015a1605bf7ea72ea99b682df2cd",
+        "sha256": "63d9e34e1a5ac7561500c1c54706df6ceda62228e9174193dce7cbdc17943a9b"
+    },
+    "dob": "1955-07-03 01:25:37",
+    "registered": "2009-04-01 16:24:58",
+    "phone": "739-395-7416",
+    "cell": "655-309-3739",
+    "id": "93802930-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    },
+    "nat": "CA"
+}

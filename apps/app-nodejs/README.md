@@ -4,7 +4,7 @@ javac -version
 Start the Server
 http://localhost:8983/solr/#/
 
-cd C:\Programs2\solr-6.6.0\solr-6.6.0\bin
+cd C:\Programs2\solr-7.3.0\bin
 cd D:\Programs2\solr-7.3.0\bin
 
 Start Solr

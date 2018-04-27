@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "jessica",
+        "last": "harrison"
+    },
+    "location": {
+        "street": "4623 grange road",
+        "city": "malahide",
+        "state": "laois",
+        "postcode": 67653
+    },
+    "email": "jessica.harrison@example.com",
+    "login": {
+        "username": "heavymouse488",
+        "password": "313131",
+        "salt": "H5F5jCAD",
+        "md5": "cf9b2b3a0da616e9adf5d43a67434bdb",
+        "sha1": "16a11e9a7bfc7bd04006791a1e2106c982f2e29a",
+        "sha256": "04c602924dbde31cc18a982de5fd8afc2054d8303e698ff57ba00a65d91c8c11"
+    },
+    "dob": "1955-10-16 19:47:00",
+    "registered": "2011-01-05 17:10:34",
+    "phone": "051-452-1060",
+    "cell": "081-444-7217",
+    "id": "93849600-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/73.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+    },
+    "nat": "IE"
+}

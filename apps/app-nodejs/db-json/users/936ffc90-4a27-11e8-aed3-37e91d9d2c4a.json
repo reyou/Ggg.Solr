@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "nady",
+        "last": "van den hoed"
+    },
+    "location": {
+        "street": "1226 biltsche grift",
+        "city": "de wolden",
+        "state": "flevoland",
+        "postcode": 84257
+    },
+    "email": "nady.vandenhoed@example.com",
+    "login": {
+        "username": "goldencat522",
+        "password": "starfire",
+        "salt": "iKb4JbF3",
+        "md5": "998fda75a63db2c3d2237ee1c6fb40df",
+        "sha1": "06f18bd416963dc6a55dcd93c569738c18ee4a45",
+        "sha256": "39bc28fcb8b0e6417970a1e76e4dac940ab899385170b1f3f65acb56ff5f4901"
+    },
+    "dob": "1956-09-28 03:45:00",
+    "registered": "2007-06-23 22:28:25",
+    "phone": "(104)-806-9008",
+    "cell": "(853)-035-5811",
+    "id": "936ffc90-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/94.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+    },
+    "nat": "NL"
+}

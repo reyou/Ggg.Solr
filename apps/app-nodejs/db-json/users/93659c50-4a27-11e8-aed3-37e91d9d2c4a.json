@@ -1,0 +1,34 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "calvin",
+        "last": "stone"
+    },
+    "location": {
+        "street": "8157 country club rd",
+        "city": "devonport",
+        "state": "australian capital territory",
+        "postcode": 4559
+    },
+    "email": "calvin.stone@example.com",
+    "login": {
+        "username": "blackpeacock150",
+        "password": "virus",
+        "salt": "EzGRtteX",
+        "md5": "4022ecc9e1223228d389b66b3bf3e178",
+        "sha1": "0079f645d40ad44b0a15cd110d363f1841904a2c",
+        "sha256": "4ff2be00553b74967c7bd30d9dafb7d2ba7a19fb6acf1e3a11fded2d158db2c7"
+    },
+    "dob": "1965-09-29 07:18:37",
+    "registered": "2011-12-10 22:39:59",
+    "phone": "03-7697-8221",
+    "cell": "0469-957-275",
+    "id": "93659c50-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/94.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+    },
+    "nat": "AU"
+}

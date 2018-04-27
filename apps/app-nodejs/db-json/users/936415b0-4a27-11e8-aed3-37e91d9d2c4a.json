@@ -1,0 +1,34 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "maeva",
+        "last": "brar"
+    },
+    "location": {
+        "street": "6869 3rd st",
+        "city": "flatrock",
+        "state": "québec",
+        "postcode": 16784
+    },
+    "email": "maeva.brar@example.com",
+    "login": {
+        "username": "organicladybug408",
+        "password": "herbert",
+        "salt": "d1q3vwrc",
+        "md5": "db720efefb9517b65aa5d7947c94c20a",
+        "sha1": "09b7f73bc232c328a670b394caa183117059aeb3",
+        "sha256": "8d67eeeaededb52d30932748ff32e24866cb193271e29d15ab4f8b4330eea819"
+    },
+    "dob": "1983-04-27 15:37:49",
+    "registered": "2006-02-21 08:56:53",
+    "phone": "963-438-2735",
+    "cell": "057-180-8661",
+    "id": "936415b0-4a27-11e8-aed3-37e91d9d2c4a",
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+    },
+    "nat": "CA"
+}
