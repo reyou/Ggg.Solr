@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "joann",
+        "last": "sanders"
+    },
+    "location": {
+        "street": "6496 stevens creek blvd",
+        "city": "santa ana",
+        "state": "montana",
+        "postcode": 87630
+    },
+    "email": "joann.sanders@example.com",
+    "login": {
+        "username": "bluegorilla110",
+        "password": "batman",
+        "salt": "Wn8tHsHC",
+        "md5": "01f2c00fa9035f0bf5798f145f66d7ce",
+        "sha1": "75d9ef666a3bbaaffdbe63b8709afac5acb73653",
+        "sha256": "15d6637819caa31615601e69ea7041aec90676da9cd3aa02cc266f6ab5838c85"
+    },
+    "dob": "1947-05-18 03:39:57",
+    "registered": "2009-12-27 21:22:30",
+    "phone": "(504)-980-4141",
+    "cell": "(063)-047-9667",
+    "id": {
+        "name": "SSN",
+        "value": "265-27-8738"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/30.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    },
+    "nat": "US"
+}

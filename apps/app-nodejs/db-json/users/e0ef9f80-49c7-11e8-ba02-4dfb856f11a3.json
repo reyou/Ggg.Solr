@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "valentina",
+        "last": "francois"
+    },
+    "location": {
+        "street": "7230 rue des écoles",
+        "city": "champigny-sur-marne",
+        "state": "landes",
+        "postcode": 19951
+    },
+    "email": "valentina.francois@example.com",
+    "login": {
+        "username": "lazypanda878",
+        "password": "titans",
+        "salt": "K0h42QYR",
+        "md5": "82a6b9418a83783de597cca74fbed1ad",
+        "sha1": "5ce8a465511abb422a84ecb81fac135a12ce0364",
+        "sha256": "4f9cce61c7506b0a1f043e2b45bff6052cba773e0be98a0c1d212f3f0d63913f"
+    },
+    "dob": "1967-08-17 13:36:27",
+    "registered": "2005-04-03 08:16:26",
+    "phone": "02-63-75-25-81",
+    "cell": "06-69-04-18-45",
+    "id": {
+        "name": "INSEE",
+        "value": "267701436915 51"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    },
+    "nat": "FR"
+}

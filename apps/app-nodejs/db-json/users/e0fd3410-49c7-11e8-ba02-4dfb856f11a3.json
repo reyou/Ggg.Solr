@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "freddie",
+        "last": "chambers"
+    },
+    "location": {
+        "street": "3521 church road",
+        "city": "castlebar",
+        "state": "limerick",
+        "postcode": 35294
+    },
+    "email": "freddie.chambers@example.com",
+    "login": {
+        "username": "bluetiger437",
+        "password": "jimmie",
+        "salt": "RJqYCvgl",
+        "md5": "1a9ccae8556b434bb198c18e63c58b59",
+        "sha1": "aff99d1411b863e79b90bf441cf8c4e231357d7d",
+        "sha256": "913cbd59683c383fc9a1484b11a57bb083af0fa603b329bf2ebb57880e6f5b14"
+    },
+    "dob": "1983-10-29 22:31:40",
+    "registered": "2005-02-09 08:49:51",
+    "phone": "041-635-4057",
+    "cell": "081-726-0886",
+    "id": {
+        "name": "PPS",
+        "value": "5295906T"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+    },
+    "nat": "IE"
+}

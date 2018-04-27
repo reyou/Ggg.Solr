@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "madame",
+        "first": "lena",
+        "last": "lopez"
+    },
+    "location": {
+        "street": "7082 rue louis-garrand",
+        "city": "romanel-sur-morges",
+        "state": "thurgau",
+        "postcode": 1849
+    },
+    "email": "lena.lopez@example.com",
+    "login": {
+        "username": "heavymouse343",
+        "password": "arturo",
+        "salt": "iUw7zqQ8",
+        "md5": "1a03ea859360e383f6990825e6438aa9",
+        "sha1": "82ed67abf8df2a4b5d5608dc869b525f262cf04d",
+        "sha256": "12b76d71255bca7a83ba6acb08518c4e6c98d290f2d3164d3185fa0bc7790d80"
+    },
+    "dob": "1992-05-26 13:16:28",
+    "registered": "2012-03-05 04:08:59",
+    "phone": "(038)-873-5691",
+    "cell": "(369)-492-2026",
+    "id": {
+        "name": "AVS",
+        "value": "756.TVMW.DGEI.94"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/58.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+    },
+    "nat": "CH"
+}

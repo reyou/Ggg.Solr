@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "violet",
+        "last": "thompson"
+    },
+    "location": {
+        "street": "5597 wairere drive",
+        "city": "palmerston north",
+        "state": "gisborne",
+        "postcode": 69200
+    },
+    "email": "violet.thompson@example.com",
+    "login": {
+        "username": "orangecat940",
+        "password": "1976",
+        "salt": "3sOvqKKK",
+        "md5": "6e1978068a17bac6dc805ddbfdead16c",
+        "sha1": "8b58e6c3a5f3ff9d03eadd2dadad5010e078a236",
+        "sha256": "50c95871ec9470155da1eafb18d7822562a3b654c510cc7829773d96eb5470f4"
+    },
+    "dob": "1994-01-10 09:39:49",
+    "registered": "2010-10-02 02:28:56",
+    "phone": "(649)-285-1055",
+    "cell": "(513)-543-2510",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/80.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+    },
+    "nat": "NZ"
+}

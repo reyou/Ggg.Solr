@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "elif",
+        "last": "öztonga"
+    },
+    "location": {
+        "street": "5536 fatih sultan mehmet cd",
+        "city": "bilecik",
+        "state": "afyonkarahisar",
+        "postcode": 22743
+    },
+    "email": "elif.öztonga@example.com",
+    "login": {
+        "username": "bluelion569",
+        "password": "rrrrr",
+        "salt": "vA7ODrJQ",
+        "md5": "3f1c8644dcf7803f6e223a921d33b040",
+        "sha1": "4e24891e4e3a87a76907410c886fc89958fb5231",
+        "sha256": "25e6a069fc275bdc7ccb98076db54c4a405ff4796b84c2a54b924c2b791d51e3"
+    },
+    "dob": "1948-12-25 15:43:31",
+    "registered": "2002-04-22 15:51:53",
+    "phone": "(591)-798-8345",
+    "cell": "(962)-212-9018",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/28.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+    },
+    "nat": "TR"
+}

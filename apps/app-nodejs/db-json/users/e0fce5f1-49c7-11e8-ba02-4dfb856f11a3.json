@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "lucas",
+        "last": "johansen"
+    },
+    "location": {
+        "street": "5234 gammel kirkevej",
+        "city": "fredeikssund",
+        "state": "hovedstaden",
+        "postcode": 10418
+    },
+    "email": "lucas.johansen@example.com",
+    "login": {
+        "username": "heavyleopard687",
+        "password": "gizmo",
+        "salt": "d8mA5OXZ",
+        "md5": "e08c9067b797f069207e4b5b9654fbd5",
+        "sha1": "9df6e997fba3a5beb42e54226a3ba2db0ae57242",
+        "sha256": "412e46e2f4fabe9eff85e0c80efb493257a43d7bf3c8dfcacae6abf8eac58815"
+    },
+    "dob": "1960-05-25 09:46:47",
+    "registered": "2016-06-12 17:27:25",
+    "phone": "16103585",
+    "cell": "12455648",
+    "id": {
+        "name": "CPR",
+        "value": "345186-2275"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    },
+    "nat": "DK"
+}

@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "erik",
+        "last": "hayes"
+    },
+    "location": {
+        "street": "7050 grange road",
+        "city": "cavan",
+        "state": "mayo",
+        "postcode": 26458
+    },
+    "email": "erik.hayes@example.com",
+    "login": {
+        "username": "goldenostrich230",
+        "password": "shopper",
+        "salt": "2rKySDnJ",
+        "md5": "2b07e83f81d042923a17841bf2077283",
+        "sha1": "f0ddf9561aba47cb59970468aa4ec400ce24ebf8",
+        "sha256": "0e8cb5e8f99ac0dce5da862de0ffb4c4c5904f9a021172e7005121aed584856c"
+    },
+    "dob": "1965-02-08 14:02:40",
+    "registered": "2009-08-27 07:13:30",
+    "phone": "011-339-6345",
+    "cell": "081-778-5495",
+    "id": {
+        "name": "PPS",
+        "value": "3611394T"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/22.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+    },
+    "nat": "IE"
+}

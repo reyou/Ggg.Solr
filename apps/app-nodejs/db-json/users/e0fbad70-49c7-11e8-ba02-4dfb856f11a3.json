@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "eli",
+        "last": "ward"
+    },
+    "location": {
+        "street": "4100 lakeshore rd",
+        "city": "phoenix",
+        "state": "montana",
+        "postcode": 41046
+    },
+    "email": "eli.ward@example.com",
+    "login": {
+        "username": "ticklishkoala420",
+        "password": "blowfish",
+        "salt": "BpdekmAu",
+        "md5": "976accfae4cb9616ccf6c348445830bc",
+        "sha1": "b70ac37579717c5f061b59a10b8dfac04d4bedaf",
+        "sha256": "e2491796961c182a533bbc78f32dae71d9154df38ac30e982212dd08842accfa"
+    },
+    "dob": "1965-10-10 18:23:18",
+    "registered": "2009-09-17 20:12:21",
+    "phone": "(462)-446-2857",
+    "cell": "(163)-233-6397",
+    "id": {
+        "name": "SSN",
+        "value": "408-20-2383"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/42.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    },
+    "nat": "US"
+}

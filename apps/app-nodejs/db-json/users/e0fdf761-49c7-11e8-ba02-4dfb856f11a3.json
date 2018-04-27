@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "katherine",
+        "last": "ramirez"
+    },
+    "location": {
+        "street": "199 fairview st",
+        "city": "hervey bay",
+        "state": "victoria",
+        "postcode": 5878
+    },
+    "email": "katherine.ramirez@example.com",
+    "login": {
+        "username": "yellowgoose739",
+        "password": "boris",
+        "salt": "flkalnyp",
+        "md5": "43158341e926efc3f59218ea370cd231",
+        "sha1": "acb512470e5bbc0a0121ef2490ee3419bc058672",
+        "sha256": "7c79fbbb63d161574c15efe7e542e3de3d9040df6e305b8676c6d0db8f5f61dd"
+    },
+    "dob": "1986-06-23 06:06:19",
+    "registered": "2009-10-18 13:21:16",
+    "phone": "02-3048-7524",
+    "cell": "0426-537-702",
+    "id": {
+        "name": "TFN",
+        "value": "059281405"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+    },
+    "nat": "AU"
+}

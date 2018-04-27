@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "naja",
+        "last": "sørensen"
+    },
+    "location": {
+        "street": "8827 elmegade",
+        "city": "ulsted, hals",
+        "state": "syddanmark",
+        "postcode": 99350
+    },
+    "email": "naja.sørensen@example.com",
+    "login": {
+        "username": "beautifulbear830",
+        "password": "eighteen",
+        "salt": "av8PaMHi",
+        "md5": "0b4613977a444886d90651d6ac50c7de",
+        "sha1": "2cafc68afc3a40882f23d2caa2f141af1f2c5f8e",
+        "sha256": "b3c109b18a0173b424f2767a3feb3f0c473e9ec9306954eb10f4a29c1a734a8d"
+    },
+    "dob": "1964-09-20 10:17:25",
+    "registered": "2006-02-26 22:31:58",
+    "phone": "09819244",
+    "cell": "86301184",
+    "id": {
+        "name": "CPR",
+        "value": "742295-6090"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/50.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+    },
+    "nat": "DK"
+}

@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "kenza",
+        "last": "de ruyter"
+    },
+    "location": {
+        "street": "8309 agnietenstraat",
+        "city": "zwijndrecht",
+        "state": "drenthe",
+        "postcode": 85208
+    },
+    "email": "kenza.deruyter@example.com",
+    "login": {
+        "username": "yellowduck222",
+        "password": "willie",
+        "salt": "wvXLUVD9",
+        "md5": "cc49f4f8be886890a90fb9063364dea2",
+        "sha1": "5aa83d430f8b2963260f2826b8f79062df042011",
+        "sha256": "1c2688c0f51001539044a4f74f5c0243d523705496005c4f7dc36a702183f9d4"
+    },
+    "dob": "1984-06-13 12:47:37",
+    "registered": "2003-12-26 14:30:27",
+    "phone": "(440)-402-5317",
+    "cell": "(077)-899-6194",
+    "id": {
+        "name": "BSN",
+        "value": "27191045"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+    },
+    "nat": "NL"
+}

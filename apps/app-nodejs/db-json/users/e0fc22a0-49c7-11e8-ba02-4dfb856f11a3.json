@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "gary",
+        "last": "ross"
+    },
+    "location": {
+        "street": "3682 mcclellan rd",
+        "city": "west palm beach",
+        "state": "south carolina",
+        "postcode": 73486
+    },
+    "email": "gary.ross@example.com",
+    "login": {
+        "username": "beautifulfish262",
+        "password": "black1",
+        "salt": "smatyeoF",
+        "md5": "65729b2bafa497598eaadeaa7b607e29",
+        "sha1": "b14c799efa546adb918feceb392f9cea342b074c",
+        "sha256": "c911d6233df6118d7de1d3e426729de5adf9fb3119a2f4bb5d2f8d46047c664d"
+    },
+    "dob": "1945-09-20 15:39:59",
+    "registered": "2011-02-09 02:07:47",
+    "phone": "(777)-851-4313",
+    "cell": "(611)-296-0826",
+    "id": {
+        "name": "SSN",
+        "value": "976-03-2427"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/68.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    },
+    "nat": "US"
+}

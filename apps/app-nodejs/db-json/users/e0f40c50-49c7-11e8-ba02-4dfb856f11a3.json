@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "liam",
+        "last": "johnson"
+    },
+    "location": {
+        "street": "5560 king st",
+        "city": "notre dame de lourdes",
+        "state": "alberta",
+        "postcode": 15900
+    },
+    "email": "liam.johnson@example.com",
+    "login": {
+        "username": "silverbutterfly784",
+        "password": "12341234",
+        "salt": "dPonxZg6",
+        "md5": "ed09485886f35b76bafd03ebcf7438e6",
+        "sha1": "5d176dfc10214bbff6da9acb43f0a796a95944ed",
+        "sha256": "08da6e3ee073f07d77135a46bc50ef7a97771e83ed38f09a29180fac16e40e7b"
+    },
+    "dob": "1995-06-24 05:31:21",
+    "registered": "2011-03-21 05:27:28",
+    "phone": "998-924-4507",
+    "cell": "065-485-6332",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/59.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    },
+    "nat": "CA"
+}

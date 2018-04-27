@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "maxime",
+        "last": "knight"
+    },
+    "location": {
+        "street": "8102 concession road 6",
+        "city": "minto",
+        "state": "ontario",
+        "postcode": 43561
+    },
+    "email": "maxime.knight@example.com",
+    "login": {
+        "username": "organicdog229",
+        "password": "123asd",
+        "salt": "wAIrx0GV",
+        "md5": "644d2d855bb5096a2d14b6b2d3094660",
+        "sha1": "de8724278af796b4495c3bce773ea55c7c2bd512",
+        "sha256": "1e232bdcf7e585b1208fc400c3b27693173ad95fa744499d113622f7b5f630d7"
+    },
+    "dob": "1946-11-04 00:15:32",
+    "registered": "2012-01-13 11:24:04",
+    "phone": "379-664-9251",
+    "cell": "887-896-3974",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    },
+    "nat": "CA"
+}

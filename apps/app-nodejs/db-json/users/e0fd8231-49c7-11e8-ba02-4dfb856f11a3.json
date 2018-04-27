@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "daniela",
+        "last": "velasco"
+    },
+    "location": {
+        "street": "2598 calle de bravo murillo",
+        "city": "bilbao",
+        "state": "andalucía",
+        "postcode": 71599
+    },
+    "email": "daniela.velasco@example.com",
+    "login": {
+        "username": "blackwolf416",
+        "password": "nicole",
+        "salt": "25k5mAQi",
+        "md5": "0cf6058349dbe11555ca155111c98913",
+        "sha1": "2ff96cb59d4d5affe9be230a4c90bc13bb1066a7",
+        "sha256": "209ae59a5c2f30ad13b02c870a9ccb79683f4a141e9d43ecd5a89f1d85d29087"
+    },
+    "dob": "1946-05-22 18:35:56",
+    "registered": "2010-09-19 19:34:13",
+    "phone": "977-069-007",
+    "cell": "689-900-948",
+    "id": {
+        "name": "DNI",
+        "value": "67697484-M"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/17.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+    },
+    "nat": "ES"
+}

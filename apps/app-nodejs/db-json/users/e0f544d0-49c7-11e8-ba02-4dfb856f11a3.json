@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "alejandra",
+        "last": "castillo"
+    },
+    "location": {
+        "street": "2296 calle del barquillo",
+        "city": "alcalá de henares",
+        "state": "castilla la mancha",
+        "postcode": 49005
+    },
+    "email": "alejandra.castillo@example.com",
+    "login": {
+        "username": "smallswan121",
+        "password": "1944",
+        "salt": "OlqKrefA",
+        "md5": "2aad1f5a16da8b2d609f39386f8cd6fb",
+        "sha1": "0719bf4b8919b0edcbded422ce4fc4b8145a4efe",
+        "sha256": "5c94be28a975d485954ecd62ed30eac0508771051c413e4b3a69d98e0ee69c2b"
+    },
+    "dob": "1945-10-10 02:37:03",
+    "registered": "2005-05-19 11:26:07",
+    "phone": "973-358-091",
+    "cell": "619-836-098",
+    "id": {
+        "name": "DNI",
+        "value": "26051105-G"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+    },
+    "nat": "ES"
+}

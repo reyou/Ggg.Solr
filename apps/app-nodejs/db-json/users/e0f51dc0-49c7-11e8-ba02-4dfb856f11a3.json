@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "lylou",
+        "last": "robert"
+    },
+    "location": {
+        "street": "2092 rue pierre-delore",
+        "city": "nanterre",
+        "state": "finistère",
+        "postcode": 33751
+    },
+    "email": "lylou.robert@example.com",
+    "login": {
+        "username": "orangegoose320",
+        "password": "winner",
+        "salt": "55sEguaX",
+        "md5": "9a979681e53882433a236419f7462023",
+        "sha1": "ab875e0b8d7fd533efa50ad017ff8089634a3de2",
+        "sha256": "abb1780abf24a0aecf6ce6dedb291320ad60b2a1465bc2557aa5fa993bd0f4e6"
+    },
+    "dob": "1950-09-18 11:11:35",
+    "registered": "2009-09-19 04:17:13",
+    "phone": "05-01-31-12-55",
+    "cell": "06-83-31-90-51",
+    "id": {
+        "name": "INSEE",
+        "value": "250871448882 84"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/88.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+    },
+    "nat": "FR"
+}

@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "mariano",
+        "last": "vicente"
+    },
+    "location": {
+        "street": "6737 calle de toledo",
+        "city": "alicante",
+        "state": "andalucía",
+        "postcode": 74834
+    },
+    "email": "mariano.vicente@example.com",
+    "login": {
+        "username": "whitelion120",
+        "password": "33333333",
+        "salt": "j8hIo1SI",
+        "md5": "071ad908817248db230d84ef76f071ef",
+        "sha1": "7e6591a74ca20ac41331808e376dd46ab44ef9ef",
+        "sha256": "a6841829708ac767b3802fef547d19ef657e61a8d0dc182c315945be3c553e3d"
+    },
+    "dob": "1955-01-29 22:27:44",
+    "registered": "2014-01-11 03:25:14",
+    "phone": "910-204-436",
+    "cell": "610-496-034",
+    "id": {
+        "name": "DNI",
+        "value": "98339229-F"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    },
+    "nat": "ES"
+}

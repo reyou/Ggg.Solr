@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "melike",
+        "last": "van 't westeinde"
+    },
+    "location": {
+        "street": "1665 hardebollenstraat",
+        "city": "zandvoort",
+        "state": "overijssel",
+        "postcode": 45354
+    },
+    "email": "melike.van'twesteinde@example.com",
+    "login": {
+        "username": "whitebear283",
+        "password": "sunday",
+        "salt": "J3jXiJp8",
+        "md5": "ed74edccecbbcb409d14ed6a825d93c3",
+        "sha1": "f8d31a967257c49222384edc3931629545113f81",
+        "sha256": "569ba46a6337fa5b0b39072f054d07b978868067a6448abc4d66b38c91df6528"
+    },
+    "dob": "1958-07-25 17:28:02",
+    "registered": "2013-09-24 23:28:55",
+    "phone": "(775)-764-2171",
+    "cell": "(403)-598-4314",
+    "id": {
+        "name": "BSN",
+        "value": "03628845"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/92.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    },
+    "nat": "NL"
+}

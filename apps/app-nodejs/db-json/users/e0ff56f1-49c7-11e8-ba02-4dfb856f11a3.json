@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "brooklyn",
+        "last": "chen"
+    },
+    "location": {
+        "street": "3516 stuart street",
+        "city": "rotorua",
+        "state": "marlborough",
+        "postcode": 56213
+    },
+    "email": "brooklyn.chen@example.com",
+    "login": {
+        "username": "goldenleopard493",
+        "password": "test2",
+        "salt": "JObPXIwb",
+        "md5": "c6e5161017c21d8059e19be84e61de0a",
+        "sha1": "4e0df8da563616bd80cdc2b2623632af54062d5d",
+        "sha256": "046cae084f3a27ff96a365f2e5a89445fec10014e61eb706aef8d9618ea46bbf"
+    },
+    "dob": "1973-01-17 06:42:12",
+    "registered": "2016-08-12 17:56:44",
+    "phone": "(036)-345-6414",
+    "cell": "(793)-836-3354",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/12.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    },
+    "nat": "NZ"
+}

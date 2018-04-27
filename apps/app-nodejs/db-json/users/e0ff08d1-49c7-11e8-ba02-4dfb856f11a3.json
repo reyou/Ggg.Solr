@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "erik",
+        "last": "lambert"
+    },
+    "location": {
+        "street": "1824 railroad st",
+        "city": "australian capital territory",
+        "state": "new south wales",
+        "postcode": 9633
+    },
+    "email": "erik.lambert@example.com",
+    "login": {
+        "username": "purplesnake372",
+        "password": "redfox",
+        "salt": "MFDsvo9P",
+        "md5": "c7699c4ed4d759a345d6487831dd0091",
+        "sha1": "09b11f04cac0ef680641bced424c01d129f7c216",
+        "sha256": "42899070e9a5c0d3e418f87e02326680c0d51fad7a3b885e269f07c2f2e01547"
+    },
+    "dob": "1950-10-10 08:52:10",
+    "registered": "2014-01-10 06:03:28",
+    "phone": "08-5349-8428",
+    "cell": "0426-286-096",
+    "id": {
+        "name": "TFN",
+        "value": "951226183"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    },
+    "nat": "AU"
+}

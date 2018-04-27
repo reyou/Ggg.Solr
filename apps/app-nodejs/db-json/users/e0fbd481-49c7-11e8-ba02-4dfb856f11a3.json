@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "cathy",
+        "last": "burke"
+    },
+    "location": {
+        "street": "5152 valley view ln",
+        "city": "busselton",
+        "state": "tasmania",
+        "postcode": 9911
+    },
+    "email": "cathy.burke@example.com",
+    "login": {
+        "username": "heavyelephant488",
+        "password": "gobucks",
+        "salt": "ZUXrWAQq",
+        "md5": "3f132afa9eb07cc5779d086d91a8e507",
+        "sha1": "9e8cdbf0b50f419bf21d348ecd62eb54ca613bd5",
+        "sha256": "9ada57fcca6072c9aa1cf393b72d967aa73d110b39b35dc7825744eb37875a90"
+    },
+    "dob": "1952-05-06 09:43:57",
+    "registered": "2004-03-04 21:16:59",
+    "phone": "09-1147-4166",
+    "cell": "0416-668-132",
+    "id": {
+        "name": "TFN",
+        "value": "473460159"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/60.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+    },
+    "nat": "AU"
+}

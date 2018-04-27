@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "juliette",
+        "last": "dubois"
+    },
+    "location": {
+        "street": "4125 rue duquesne",
+        "city": "saint-pierre",
+        "state": "haut-rhin",
+        "postcode": 12306
+    },
+    "email": "juliette.dubois@example.com",
+    "login": {
+        "username": "heavyelephant985",
+        "password": "minnie",
+        "salt": "F4qvAe6j",
+        "md5": "85127e918f2ba93a3e0b9df197a84921",
+        "sha1": "39e8d3c31f8449f310882c04220e37d4fccc472b",
+        "sha256": "66f4890fd84d37a08e63833b0a552e6603fe76f9ea453318fc206c232772550f"
+    },
+    "dob": "1951-02-15 23:04:20",
+    "registered": "2015-11-11 23:04:34",
+    "phone": "04-08-00-21-30",
+    "cell": "06-71-78-67-39",
+    "id": {
+        "name": "INSEE",
+        "value": "251140888388 40"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/36.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    },
+    "nat": "FR"
+}

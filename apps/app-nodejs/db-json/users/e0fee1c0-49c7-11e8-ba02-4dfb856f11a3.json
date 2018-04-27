@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "theo",
+        "last": "addy"
+    },
+    "location": {
+        "street": "7033 elgin st",
+        "city": "lafontaine",
+        "state": "new brunswick",
+        "postcode": 23781
+    },
+    "email": "theo.addy@example.com",
+    "login": {
+        "username": "redrabbit348",
+        "password": "rachel1",
+        "salt": "zZkfMtEV",
+        "md5": "4c7ed231f388dcea21a742a6437e3397",
+        "sha1": "e3a7502914caf57148de9e568e384d14f89b5fc5",
+        "sha256": "ae9219143b80eb0211f39b140f5eed65e9770e6ab607d7fd6508e99603f45c23"
+    },
+    "dob": "1981-01-02 19:20:08",
+    "registered": "2008-04-08 14:48:22",
+    "phone": "927-889-7492",
+    "cell": "918-179-5425",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    },
+    "nat": "CA"
+}

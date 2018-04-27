@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "greg",
+        "last": "lawson"
+    },
+    "location": {
+        "street": "3792 new road",
+        "city": "carlow",
+        "state": "roscommon",
+        "postcode": 46465
+    },
+    "email": "greg.lawson@example.com",
+    "login": {
+        "username": "bigmeercat831",
+        "password": "greenbay",
+        "salt": "F2x1HRu5",
+        "md5": "b74425b9e888307c484c57df33fcd531",
+        "sha1": "ce041b2067e63cc37f2075daa93a69d2c4d724e8",
+        "sha256": "4f1e3b2919e17c19bf1f7546eb8a9210730fb39bda17a507206cb9a0c3224a8b"
+    },
+    "dob": "1988-04-19 00:28:58",
+    "registered": "2006-08-28 04:35:09",
+    "phone": "031-099-9383",
+    "cell": "081-736-4865",
+    "id": {
+        "name": "PPS",
+        "value": "6402547T"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/86.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "IE"
+}

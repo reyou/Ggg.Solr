@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "irena",
+        "last": "huijser"
+    },
+    "location": {
+        "street": "4485 baden-powellweg",
+        "city": "elburg",
+        "state": "gelderland",
+        "postcode": 58787
+    },
+    "email": "irena.huijser@example.com",
+    "login": {
+        "username": "bigrabbit742",
+        "password": "jabber",
+        "salt": "KNd3byYn",
+        "md5": "4cc32813382d3603fe4cc6b2a1dd78dc",
+        "sha1": "527207988fb10ab969fdcb89682f7a17b15e8118",
+        "sha256": "4b0d6b120c0ab00b3721ee07c009bdd7781e6fed79f1c37838efcebf4831074c"
+    },
+    "dob": "1983-01-30 15:32:11",
+    "registered": "2004-02-16 14:13:15",
+    "phone": "(153)-692-7663",
+    "cell": "(601)-009-2635",
+    "id": {
+        "name": "BSN",
+        "value": "83100789"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    },
+    "nat": "NL"
+}

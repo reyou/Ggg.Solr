@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "isla",
+        "last": "jarvela"
+    },
+    "location": {
+        "street": "1243 rotuaari",
+        "city": "lieto",
+        "state": "southern ostrobothnia",
+        "postcode": 49505
+    },
+    "email": "isla.jarvela@example.com",
+    "login": {
+        "username": "browndog410",
+        "password": "343434",
+        "salt": "sTya106A",
+        "md5": "cff10e453841ca0b8c961af3d2a641db",
+        "sha1": "142b027b4935b0a13274ea41c2a46a2fac8712aa",
+        "sha256": "17dcf5c44f97c122dd60c525343806ed11edd46af985f96db85e1b5342e5d31e"
+    },
+    "dob": "1952-10-15 12:10:22",
+    "registered": "2015-05-28 15:40:07",
+    "phone": "04-677-879",
+    "cell": "044-674-14-13",
+    "id": {
+        "name": "HETU",
+        "value": "1252-3103"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/18.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+    },
+    "nat": "FI"
+}

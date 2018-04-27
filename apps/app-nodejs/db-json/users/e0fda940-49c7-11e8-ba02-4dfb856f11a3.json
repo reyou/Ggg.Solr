@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "sedef",
+        "last": "öztonga"
+    },
+    "location": {
+        "street": "3833 istiklal cd",
+        "city": "denizli",
+        "state": "artvin",
+        "postcode": 11394
+    },
+    "email": "sedef.öztonga@example.com",
+    "login": {
+        "username": "orangefrog513",
+        "password": "suicide",
+        "salt": "wyh8II6B",
+        "md5": "c0dd9a39b97c5314da9f30451a50ec8c",
+        "sha1": "1f8a1d26a4dc08b4343a96bb7298bbb7f269402f",
+        "sha256": "5a6cd1552785de31fa22c1da07d64c658b6ace474f839bcf71f13841531b9592"
+    },
+    "dob": "1973-02-21 21:15:15",
+    "registered": "2015-07-16 09:48:36",
+    "phone": "(598)-571-7083",
+    "cell": "(377)-363-6941",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/36.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    },
+    "nat": "TR"
+}

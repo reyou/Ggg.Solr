@@ -1,42 +1,46 @@
 var request = require("request");
+var fs = require("fs");
+var path = require("path");
+// https://www.npmjs.com/package/uuid
+const uuidv1 = require("uuid/v1");
 
 class RandomUserGenerator {
-  constructor(core) {
-    this.core = core;
-  }
+  constructor() {}
   createRandomUsers(count) {
-    let promises = [];
-    for (var i = 0; i <= count; i++) {
-      let promise = new Promise(function(resolve, reject) {
-        request("https://api.randomuser.me/", function(error, response, body) {
-          if (error) {
-            reject(error);
-          } else {
-            resolve(body);
-          }
-        });
+    let promise = new Promise(function(resolve, reject) {
+      request("https://randomuser.me/api/?results=" + count, function(
+        error,
+        response,
+        body
+      ) {
+        if (error) {
+          reject(error);
+        } else {
+          resolve(body);
+        }
       });
-      promises.push(promise);
-    }
-    return promises;
+    });
+    return promise;
   }
 }
 
 let randomUserGenerator = new RandomUserGenerator();
-let tasks = randomUserGenerator.createRandomUsers(10);
-let onTasksCompleted = function(completedTasks) {
-  for (let i = 0; i <= completedTasks.length; i++) {
-    let completedTask = completedTasks[i];
-    console.log("completedTask:", completedTask);
-  }
+let userPromise = randomUserGenerator.createRandomUsers(100);
+let onTaskCompleted = function(result) {
+  let resultObj = JSON.parse(result);
+  resultObj.results.forEach(element => {
+    // ⇨ 'f64f2940-fae4-11e7-8c5f-ef356f279131'
+    const id = uuidv1();
+    let file = path.join(__dirname, "../db-json/users/", id + ".json");
+    let content = JSON.stringify(element, null, 4);
+    fs.writeFileSync(file, content, "utf8");
+  });
 };
-let onTasksCatch = function(error) {
+let onTaskCatch = function(error) {
   console.log("onTasksCatch", error);
 };
 /*Creates a Promise that is resolved with an array 
 of results when all of the provided Promises resolve, 
 or rejected when any Promise is rejected.*/
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
-Promise.all(tasks)
-  .then(onTasksCompleted)
-  .catch(onTasksCatch);
+userPromise.then(onTaskCompleted).catch(onTaskCatch);

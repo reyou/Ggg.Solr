@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "monsieur",
+        "first": "estéban",
+        "last": "morel"
+    },
+    "location": {
+        "street": "7423 rue bossuet",
+        "city": "chapelle-sur-moudon",
+        "state": "genève",
+        "postcode": 7021
+    },
+    "email": "estéban.morel@example.com",
+    "login": {
+        "username": "crazyswan664",
+        "password": "doogie",
+        "salt": "4Sjd8lI2",
+        "md5": "e6895f193c49da28a54c7a3bb56dadac",
+        "sha1": "8eaecdc7a171de3745e695a784b16332b9c295eb",
+        "sha256": "b879b1a00dbc2ef774be8043b18d4d6459a00f33f9258fd3bed29845def75d3f"
+    },
+    "dob": "1962-08-22 10:00:57",
+    "registered": "2005-11-11 19:28:04",
+    "phone": "(093)-424-2445",
+    "cell": "(821)-627-2620",
+    "id": {
+        "name": "AVS",
+        "value": "756.FEPS.BIET.30"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/86.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "CH"
+}

@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "annemoon",
+        "last": "korkmaz"
+    },
+    "location": {
+        "street": "1339 vredenburg",
+        "city": "midden-drenthe",
+        "state": "flevoland",
+        "postcode": 59802
+    },
+    "email": "annemoon.korkmaz@example.com",
+    "login": {
+        "username": "redbutterfly721",
+        "password": "toad",
+        "salt": "tFr9Wsm8",
+        "md5": "ff60769db52b214f2623ef16b0cda149",
+        "sha1": "964f8510136ea8bbdb7f3016dffef8297c673808",
+        "sha256": "d0c0612bf8aa411e116115c5dea64d635e9c0f59eadbf4df65f56f929d50941b"
+    },
+    "dob": "1985-04-25 09:44:39",
+    "registered": "2016-01-17 00:59:52",
+    "phone": "(157)-959-1175",
+    "cell": "(703)-413-9509",
+    "id": {
+        "name": "BSN",
+        "value": "66825264"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/36.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    },
+    "nat": "NL"
+}

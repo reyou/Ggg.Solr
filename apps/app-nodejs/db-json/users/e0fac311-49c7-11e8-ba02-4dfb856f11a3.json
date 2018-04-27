@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "luis",
+        "last": "brückner"
+    },
+    "location": {
+        "street": "2542 im winkel",
+        "city": "straubing",
+        "state": "nordrhein-westfalen",
+        "postcode": 94305
+    },
+    "email": "luis.brückner@example.com",
+    "login": {
+        "username": "lazybird787",
+        "password": "cole",
+        "salt": "JFWk2xri",
+        "md5": "e45ed90035f91a4f9abeb83c1416ae46",
+        "sha1": "5f16742b9d296d6c20af329d3a9512d4ab2d2ba5",
+        "sha256": "13f15f7024b94a784c135090d082f854143559398021ca4f81dffef7cb6d91df"
+    },
+    "dob": "1995-03-17 19:21:31",
+    "registered": "2002-10-08 07:33:01",
+    "phone": "0429-6248889",
+    "cell": "0178-6060048",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    },
+    "nat": "DE"
+}

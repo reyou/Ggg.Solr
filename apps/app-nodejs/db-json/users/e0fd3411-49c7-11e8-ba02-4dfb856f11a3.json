@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "frederik",
+        "last": "thomsen"
+    },
+    "location": {
+        "street": "4290 brorsonsvej",
+        "city": "pandrup",
+        "state": "midtjylland",
+        "postcode": 31054
+    },
+    "email": "frederik.thomsen@example.com",
+    "login": {
+        "username": "crazygorilla120",
+        "password": "roman",
+        "salt": "xOvf7Ntg",
+        "md5": "2af99cfe77d35203ec9d6ef225d6250f",
+        "sha1": "8b7cde7d2e012c270e86f57cdfdb3ea10be0c5f9",
+        "sha256": "b663de3166dedffd3ec30e38d469cc27af1c6c0b14fb1906ebbfecfb093cb70e"
+    },
+    "dob": "1950-03-12 13:44:47",
+    "registered": "2005-03-25 11:25:42",
+    "phone": "07396002",
+    "cell": "20171183",
+    "id": {
+        "name": "CPR",
+        "value": "868327-5883"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/9.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+    },
+    "nat": "DK"
+}

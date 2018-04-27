@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "mathis",
+        "last": "jones"
+    },
+    "location": {
+        "street": "8867 oak st",
+        "city": "southampton",
+        "state": "nova scotia",
+        "postcode": 95510
+    },
+    "email": "mathis.jones@example.com",
+    "login": {
+        "username": "biggoose575",
+        "password": "tupac",
+        "salt": "uFgaUakf",
+        "md5": "01c6555ad395f1b654df6fe7016245cd",
+        "sha1": "fd14df9867671aeb1e950a67c9ef056a9813ca46",
+        "sha256": "77c92a25cd3dc6f4afd5bfce998af9c9310ecf162dcdd26781fab5677aa0983c"
+    },
+    "dob": "1983-05-03 05:33:53",
+    "registered": "2011-04-21 16:05:59",
+    "phone": "503-938-0929",
+    "cell": "723-482-3171",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+    },
+    "nat": "CA"
+}

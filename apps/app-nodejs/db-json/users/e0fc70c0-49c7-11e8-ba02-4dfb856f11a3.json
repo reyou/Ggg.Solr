@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "ferdinand",
+        "last": "beckmann"
+    },
+    "location": {
+        "street": "8343 schulstraße",
+        "city": "lörrach",
+        "state": "rheinland-pfalz",
+        "postcode": 29232
+    },
+    "email": "ferdinand.beckmann@example.com",
+    "login": {
+        "username": "yellowgoose337",
+        "password": "dddddd",
+        "salt": "rU3i5fqj",
+        "md5": "2c498dbcfdaaba928e14d4cc04e6f30c",
+        "sha1": "c9d537fa5cea5d410eaa438bc649994d99acd330",
+        "sha256": "6eb6e89ebda1ac81fcf9adbb83b633d46639510431b1b1a9077e432cb8f0bf2d"
+    },
+    "dob": "1964-03-16 14:09:52",
+    "registered": "2009-08-13 21:07:23",
+    "phone": "0728-1431341",
+    "cell": "0173-5962202",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/2.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    },
+    "nat": "DE"
+}

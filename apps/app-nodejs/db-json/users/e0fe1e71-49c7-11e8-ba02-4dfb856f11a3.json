@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "emmi",
+        "last": "halonen"
+    },
+    "location": {
+        "street": "7594 hämeentie",
+        "city": "forssa",
+        "state": "kymenlaakso",
+        "postcode": 84417
+    },
+    "email": "emmi.halonen@example.com",
+    "login": {
+        "username": "heavyswan499",
+        "password": "borussia",
+        "salt": "8CxeFzNj",
+        "md5": "bac53dfc0eb5a92904d51238e71d1d05",
+        "sha1": "5ba5048f5c3154dcaefbccd9336a260bdb9e7bc3",
+        "sha256": "528fd63b64d0da02c6617e9842eddda3897136decef8792c2186a932a3d0fe31"
+    },
+    "dob": "1949-01-04 10:44:31",
+    "registered": "2015-12-17 10:49:16",
+    "phone": "09-988-388",
+    "cell": "042-214-39-54",
+    "id": {
+        "name": "HETU",
+        "value": "249-756M"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/3.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+    },
+    "nat": "FI"
+}

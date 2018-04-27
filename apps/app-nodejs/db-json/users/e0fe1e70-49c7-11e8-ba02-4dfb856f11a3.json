@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "crystal",
+        "last": "boyd"
+    },
+    "location": {
+        "street": "8572 crockett st",
+        "city": "geraldton",
+        "state": "south australia",
+        "postcode": 3269
+    },
+    "email": "crystal.boyd@example.com",
+    "login": {
+        "username": "goldenfrog236",
+        "password": "help",
+        "salt": "BMSrAd5n",
+        "md5": "82e18043a2824af3657f7ef76120dd29",
+        "sha1": "d6ac3e1ad5b8767f4771f7915d85273c13615413",
+        "sha256": "d1ade5f82f98db099882540ad1b33b0a532bc00238db6451d0261eb4909fe69e"
+    },
+    "dob": "1986-08-14 18:30:14",
+    "registered": "2004-10-28 01:14:38",
+    "phone": "05-7981-9125",
+    "cell": "0426-642-572",
+    "id": {
+        "name": "TFN",
+        "value": "028655618"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/25.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+    },
+    "nat": "AU"
+}

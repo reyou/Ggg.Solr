@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "ismael",
+        "last": "driessens"
+    },
+    "location": {
+        "street": "4100 biltstraat",
+        "city": "krimpenerwaard",
+        "state": "drenthe",
+        "postcode": 12590
+    },
+    "email": "ismael.driessens@example.com",
+    "login": {
+        "username": "whiterabbit493",
+        "password": "burrito",
+        "salt": "GEFxym9h",
+        "md5": "56b43c0b4637ed60a9ef728580782279",
+        "sha1": "e149921c1251d8c4f21d787660a2fe77d9b01244",
+        "sha256": "66bf7bc04d615fb2fe7427df5a44ce7948a0271504dd292ceb43ac9bdb595ce5"
+    },
+    "dob": "1985-09-08 12:17:14",
+    "registered": "2011-09-10 21:26:53",
+    "phone": "(946)-827-9339",
+    "cell": "(406)-906-1957",
+    "id": {
+        "name": "BSN",
+        "value": "02306642"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    },
+    "nat": "NL"
+}

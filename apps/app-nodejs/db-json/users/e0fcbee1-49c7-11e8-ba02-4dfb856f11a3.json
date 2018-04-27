@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "raquel",
+        "last": "silva"
+    },
+    "location": {
+        "street": "4511 rua dezesseis de maio",
+        "city": "são bernardo do campo",
+        "state": "distrito federal",
+        "postcode": 54739
+    },
+    "email": "raquel.silva@example.com",
+    "login": {
+        "username": "silvermouse354",
+        "password": "december",
+        "salt": "plsRXEPQ",
+        "md5": "a6c1479598f53d77550f649bdeb1b40f",
+        "sha1": "7fa908e1572398780fb43b2dc40ea61d2a4c3b8f",
+        "sha256": "094c92424246c2f3f62b094c55544b7de139f9ef8707355dacea3a85da1887db"
+    },
+    "dob": "1974-02-24 22:14:54",
+    "registered": "2015-06-27 17:06:48",
+    "phone": "(04) 7577-5443",
+    "cell": "(42) 5895-5906",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/8.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+    },
+    "nat": "BR"
+}

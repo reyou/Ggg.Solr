@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "fernão de magalhães",
+        "last": "aragão"
+    },
+    "location": {
+        "street": "3238 travessa dos açorianos",
+        "city": "bacabal",
+        "state": "alagoas",
+        "postcode": 23333
+    },
+    "email": "fernão de magalhães.aragão@example.com",
+    "login": {
+        "username": "blackbear808",
+        "password": "truman",
+        "salt": "LIxNPwRc",
+        "md5": "d78b009316158a5f6a4a7951bdcde447",
+        "sha1": "c73a31a51d9a03349834014bafd120acedb57d1a",
+        "sha256": "2c328c0b04e359cf351ffab55f57c64086c85e1e8847b2464bcff4323b40c8c0"
+    },
+    "dob": "1958-07-31 14:35:30",
+    "registered": "2004-07-07 02:50:06",
+    "phone": "(83) 5955-3088",
+    "cell": "(63) 6777-0969",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/26.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    },
+    "nat": "BR"
+}

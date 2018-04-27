@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "miss",
+        "first": "chloe",
+        "last": "gauthier"
+    },
+    "location": {
+        "street": "1075 frederick ave",
+        "city": "trout lake",
+        "state": "new brunswick",
+        "postcode": 46344
+    },
+    "email": "chloe.gauthier@example.com",
+    "login": {
+        "username": "whitefish347",
+        "password": "landon",
+        "salt": "rr7oaNRS",
+        "md5": "e61dbf590f4a1e6b371928aadcaf9c80",
+        "sha1": "68cf5aef5fc67e483617b8bfbd3a90387c0ee638",
+        "sha256": "b2f32c05776e4fdb2dd0b87b68c84435ef47f27f98f1956ce7b75261ee244855"
+    },
+    "dob": "1947-11-25 18:53:17",
+    "registered": "2004-02-11 04:41:13",
+    "phone": "250-846-8559",
+    "cell": "391-900-5516",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+    },
+    "nat": "CA"
+}

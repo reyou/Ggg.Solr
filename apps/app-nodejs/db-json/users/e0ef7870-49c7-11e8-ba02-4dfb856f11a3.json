@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "randall",
+        "last": "burns"
+    },
+    "location": {
+        "street": "4003 manchester road",
+        "city": "winchester",
+        "state": "oxfordshire",
+        "postcode": "PO42 3YQ"
+    },
+    "email": "randall.burns@example.com",
+    "login": {
+        "username": "bluegoose903",
+        "password": "poon",
+        "salt": "LFaOjtvZ",
+        "md5": "3a55d9a92bc980a6c45aca13ead0efca",
+        "sha1": "b84221d44f35d915cda8eb1e92fece3eb7b7d0e3",
+        "sha256": "720b4ef80ffbe354e951844c90da63886fdd6d3d80cda6f177d386860cf8b2a8"
+    },
+    "dob": "1984-01-14 12:52:51",
+    "registered": "2005-08-23 04:45:41",
+    "phone": "0191 148 9361",
+    "cell": "0742-147-471",
+    "id": {
+        "name": "NINO",
+        "value": "KN 21 63 08 T"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/71.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    },
+    "nat": "GB"
+}

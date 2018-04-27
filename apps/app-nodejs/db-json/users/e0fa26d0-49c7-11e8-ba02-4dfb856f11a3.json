@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mademoiselle",
+        "first": "laurine",
+        "last": "marie"
+    },
+    "location": {
+        "street": "4163 rue du 8 mai 1945",
+        "city": "ogens",
+        "state": "vaud",
+        "postcode": 7405
+    },
+    "email": "laurine.marie@example.com",
+    "login": {
+        "username": "redlion219",
+        "password": "hobbes",
+        "salt": "i1UD3FQl",
+        "md5": "eb1d27e6d7b5f71333f8f618b2430d65",
+        "sha1": "905479e95551f67eb54f04ff8dae5278d811b423",
+        "sha256": "9c15f77bc0f4fca3e13834a805103214d07972eaacc0a9829609e0fa6c4ec8f5"
+    },
+    "dob": "1977-02-17 21:45:53",
+    "registered": "2005-03-15 10:37:11",
+    "phone": "(648)-627-5323",
+    "cell": "(579)-004-2675",
+    "id": {
+        "name": "AVS",
+        "value": "756.JNQZ.BQHI.88"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+    },
+    "nat": "CH"
+}

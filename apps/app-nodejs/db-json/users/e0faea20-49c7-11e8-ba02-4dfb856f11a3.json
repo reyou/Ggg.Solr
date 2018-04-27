@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "lidia",
+        "last": "gallardo"
+    },
+    "location": {
+        "street": "5513 avenida del planetario",
+        "city": "la palma",
+        "state": "galicia",
+        "postcode": 84657
+    },
+    "email": "lidia.gallardo@example.com",
+    "login": {
+        "username": "lazymouse180",
+        "password": "yummy",
+        "salt": "s9G9JOnX",
+        "md5": "04c60bf1e6b291f4c36b0051e192bd9b",
+        "sha1": "5dd00691833a331d8de5979262fc7436765b7c1c",
+        "sha256": "ccc94378636479c2b6032e36eeb88c666ded51c360699d75ae11cdfa870a9e69"
+    },
+    "dob": "1992-05-25 09:43:22",
+    "registered": "2014-01-20 19:12:55",
+    "phone": "925-016-034",
+    "cell": "607-490-266",
+    "id": {
+        "name": "DNI",
+        "value": "88890014-F"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+    },
+    "nat": "ES"
+}

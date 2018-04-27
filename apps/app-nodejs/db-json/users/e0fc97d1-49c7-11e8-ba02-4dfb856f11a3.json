@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "hanno",
+        "last": "fuchs"
+    },
+    "location": {
+        "street": "6608 mittelstraße",
+        "city": "limburg-weilburg",
+        "state": "saarland",
+        "postcode": 55095
+    },
+    "email": "hanno.fuchs@example.com",
+    "login": {
+        "username": "bluepanda774",
+        "password": "freee",
+        "salt": "K8qlEhnp",
+        "md5": "ebf8d71a0afb71b964bb8308d696c0cf",
+        "sha1": "a5b0a785e313829a800d65352c38f192130ca542",
+        "sha256": "1df6b5b1eb41dc729cdf508d04ee56c6b2962c657d0fa755dca0bf3175571ebf"
+    },
+    "dob": "1981-01-14 10:31:17",
+    "registered": "2003-09-09 10:21:15",
+    "phone": "0102-3091417",
+    "cell": "0171-3017266",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    },
+    "nat": "DE"
+}

@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "caitlin",
+        "last": "wood"
+    },
+    "location": {
+        "street": "2498 rankin avenue",
+        "city": "palmerston north",
+        "state": "nelson",
+        "postcode": 20370
+    },
+    "email": "caitlin.wood@example.com",
+    "login": {
+        "username": "crazybird426",
+        "password": "golfgolf",
+        "salt": "HnTafOyH",
+        "md5": "fcf571ebf25826fb98041b6c4e38057d",
+        "sha1": "1b3e1628afff1707eda752415acef2162f301471",
+        "sha256": "1d0b5f0e546b00953f234b49ec98adf95afcde54e8062d257bcf62b99e2ea93c"
+    },
+    "dob": "1978-05-28 15:42:44",
+    "registered": "2011-12-29 21:42:17",
+    "phone": "(374)-377-3214",
+    "cell": "(148)-978-9971",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/33.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+    },
+    "nat": "NZ"
+}

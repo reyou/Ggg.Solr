@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "adrian",
+        "last": "fields"
+    },
+    "location": {
+        "street": "6967 daisy dr",
+        "city": "santa ana",
+        "state": "connecticut",
+        "postcode": 94897
+    },
+    "email": "adrian.fields@example.com",
+    "login": {
+        "username": "lazybear358",
+        "password": "rockford",
+        "salt": "b5Ambs65",
+        "md5": "3f962927878ba0beb65b4737c4fe8c6e",
+        "sha1": "9f4e265c58138a45ca497a479e9bfbfc1b7fb0a3",
+        "sha256": "d57616d5f34b8f0f3c466331fb5f7f5f1768857d9d4eb254171b6aa0d906dadf"
+    },
+    "dob": "1980-07-14 03:47:13",
+    "registered": "2010-09-01 08:18:26",
+    "phone": "(326)-311-9750",
+    "cell": "(532)-474-1217",
+    "id": {
+        "name": "SSN",
+        "value": "508-83-5181"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/74.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    },
+    "nat": "US"
+}

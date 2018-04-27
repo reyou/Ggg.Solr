@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "titouan",
+        "last": "clement"
+    },
+    "location": {
+        "street": "7327 rue abel-hovelacque",
+        "city": "le mans",
+        "state": "pyrénées-atlantiques",
+        "postcode": 24240
+    },
+    "email": "titouan.clement@example.com",
+    "login": {
+        "username": "lazydog927",
+        "password": "pooppoop",
+        "salt": "SdtA87Lc",
+        "md5": "6bbcc1bf94011e20e833669c8d6ad207",
+        "sha1": "e3110510f80a88fccdfeadf7f01eef27ee8d3901",
+        "sha256": "96e0e19dbb2e5ae459fdb41413743453bb1de91faa964b89e5b50bc4163ccd5c"
+    },
+    "dob": "1961-10-10 07:02:10",
+    "registered": "2014-12-09 10:29:59",
+    "phone": "02-01-03-87-64",
+    "cell": "06-12-32-31-18",
+    "id": {
+        "name": "INSEE",
+        "value": "161944457572 42"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/79.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    },
+    "nat": "FR"
+}

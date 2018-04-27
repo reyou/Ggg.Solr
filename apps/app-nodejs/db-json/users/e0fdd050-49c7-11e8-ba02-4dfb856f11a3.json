@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "kasper",
+        "last": "laitinen"
+    },
+    "location": {
+        "street": "1293 itsenäisyydenkatu",
+        "city": "heinävesi",
+        "state": "finland proper",
+        "postcode": 39411
+    },
+    "email": "kasper.laitinen@example.com",
+    "login": {
+        "username": "yellowleopard542",
+        "password": "trouble",
+        "salt": "Jsytv0Pl",
+        "md5": "4ac3f0d69f8ca8296b520a32bb429bf7",
+        "sha1": "a13c486a21b28987d59962143c275e301848a751",
+        "sha256": "49bbf1c643fe26dcce2fb38bf3c25ca2439eb1e3577353ee16011ce513ba56ad"
+    },
+    "dob": "1953-10-04 12:04:22",
+    "registered": "2002-06-30 03:30:58",
+    "phone": "02-533-883",
+    "cell": "042-358-40-95",
+    "id": {
+        "name": "HETU",
+        "value": "953-981K"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/97.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    },
+    "nat": "FI"
+}

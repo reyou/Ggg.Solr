@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "pauline",
+        "last": "morrison"
+    },
+    "location": {
+        "street": "8399 railroad st",
+        "city": "davenport",
+        "state": "new hampshire",
+        "postcode": 26008
+    },
+    "email": "pauline.morrison@example.com",
+    "login": {
+        "username": "heavyfrog284",
+        "password": "fuzzy",
+        "salt": "1FOapI8y",
+        "md5": "87c181faa41d0b21cf959426e410888f",
+        "sha1": "a6869072ba577d05f3157780e4c55cf7d65f3541",
+        "sha256": "e35754d350017a4b3478d630b9b292a113484e850bac535e0f45002c264c2065"
+    },
+    "dob": "1976-03-17 01:23:06",
+    "registered": "2006-09-19 08:33:05",
+    "phone": "(682)-109-5697",
+    "cell": "(538)-153-4969",
+    "id": {
+        "name": "SSN",
+        "value": "123-81-6073"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/25.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+    },
+    "nat": "US"
+}

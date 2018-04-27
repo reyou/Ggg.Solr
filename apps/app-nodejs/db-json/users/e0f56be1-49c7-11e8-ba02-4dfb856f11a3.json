@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "mrs",
+        "first": "katrine",
+        "last": "thomsen"
+    },
+    "location": {
+        "street": "3944 vibevej",
+        "city": "sundby/erslev",
+        "state": "syddanmark",
+        "postcode": 23733
+    },
+    "email": "katrine.thomsen@example.com",
+    "login": {
+        "username": "greenduck891",
+        "password": "wayne1",
+        "salt": "JbKOwH0T",
+        "md5": "1a741e9156a6e4f4b84ebb8952dc6352",
+        "sha1": "bad4b5fe56bea217ff5bdbbb60b9ba1c807720a1",
+        "sha256": "f836aa38440f9b0015c83b7a6f15c9b5a62076b2a2e05b8d092a110055d31b80"
+    },
+    "dob": "1954-03-05 04:27:34",
+    "registered": "2012-04-27 22:57:53",
+    "phone": "47010984",
+    "cell": "77870895",
+    "id": {
+        "name": "CPR",
+        "value": "629804-6849"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/50.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+    },
+    "nat": "DK"
+}

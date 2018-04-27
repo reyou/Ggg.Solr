@@ -1,0 +1,37 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "mr",
+        "first": "victor",
+        "last": "lorenzo"
+    },
+    "location": {
+        "street": "3514 paseo de zorrilla",
+        "city": "vitoria",
+        "state": "castilla la mancha",
+        "postcode": 28696
+    },
+    "email": "victor.lorenzo@example.com",
+    "login": {
+        "username": "crazyladybug790",
+        "password": "birthday4",
+        "salt": "1kmtMzNQ",
+        "md5": "b42c39bff110efa203882fd8883657a4",
+        "sha1": "4e1b55f13e47003823c884b484c58b65beddc5c9",
+        "sha256": "07ca70c774d519759630cc17731bf2ead35e3fc25f62e8a969e1fad79e6f3e05"
+    },
+    "dob": "1961-05-04 11:31:39",
+    "registered": "2004-10-05 03:18:43",
+    "phone": "961-414-268",
+    "cell": "619-679-316",
+    "id": {
+        "name": "DNI",
+        "value": "84129222-V"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/68.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    },
+    "nat": "ES"
+}

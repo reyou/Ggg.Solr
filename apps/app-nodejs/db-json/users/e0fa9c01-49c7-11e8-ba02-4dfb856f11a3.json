@@ -1,0 +1,37 @@
+{
+    "gender": "female",
+    "name": {
+        "title": "ms",
+        "first": "lylou",
+        "last": "leroy"
+    },
+    "location": {
+        "street": "9351 rue duquesne",
+        "city": "strasbourg",
+        "state": "loiret",
+        "postcode": 45403
+    },
+    "email": "lylou.leroy@example.com",
+    "login": {
+        "username": "blueswan737",
+        "password": "john1",
+        "salt": "LcVpNJQL",
+        "md5": "751c360c272ce4e177d916152be5cdbc",
+        "sha1": "49128f7a37a7161f8f3243aefae1c4e0f7ac9488",
+        "sha256": "3f2d8228f90402003b3d302bb8ba9f4385cf8be48fa27434ed32acfe7ec364ca"
+    },
+    "dob": "1968-04-12 04:57:44",
+    "registered": "2007-06-07 12:46:48",
+    "phone": "02-80-64-72-94",
+    "cell": "06-59-94-87-33",
+    "id": {
+        "name": "INSEE",
+        "value": "268303510402 61"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/15.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+    },
+    "nat": "FR"
+}
