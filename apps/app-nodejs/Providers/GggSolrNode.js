@@ -1,7 +1,5 @@
 // npm install solr-node --save
 // https://www.npmjs.com/package/solr-node
-console.log("Executing file:", __filename);
-//=============================================================================
 // Require module 
 var SolrNode = require('solr-node');
 var request = require('request');
@@ -21,7 +19,7 @@ class GggSolrNode {
             console.log(title, text);
         }
         else {
-            console.log(title); 
+            console.log(title);
         }
 
     }

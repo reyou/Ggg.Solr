@@ -52,10 +52,10 @@ healthcheck
 delete core
 .\solr.cmd delete -c coreNameWillBeHere
 
-Commands
+### Commands
 http://localhost:8983/solr/admin/cores?action=CREATE&name=GggCore&instanceDir=GggCore
 
-Queries
+### Queries
 
 every document whose price is between $0 and $400
 http://localhost:8983/solr/gettingstarted/select?q=price:[0%20TO%20400]&fl=id,name,price
@@ -83,3 +83,6 @@ http://localhost:8983/solr/gettingstarted/select?q=name:ASUS%20Extreme%20N7800GT
 
 searches for black in the name field only
 http://localhost:8983/solr/gettingstarted/select?q=name:black
+
+//=============================================================================  
+

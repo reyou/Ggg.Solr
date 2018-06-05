@@ -49,7 +49,7 @@ if (require.main === module) {
     let users = readRandomUsers();
     let user = users[0];
     let userFlatten = flatten(user);
-    debugger;
+    console.log(userFlatten);
 }
 
 module.exports.flatten = flatten;
