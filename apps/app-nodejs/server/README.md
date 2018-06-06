@@ -5,6 +5,7 @@ CTRL + J (VS Code)
 $ cd C:\Github\Ggg.Github\Ggg.Solr\apps\app-nodejs\server\  
 $ cd D:\Git\Ggg.Github\Ggg.Solr\apps\app-nodejs\server\  
 $ npm i (parent folder)  
+$ npm run start
 $ npm run server
 $ npm run webpack
 //=============================================================================
